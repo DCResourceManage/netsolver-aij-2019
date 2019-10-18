@@ -1,0 +1,27 @@
+# instance assign_to_us-mid2.pn
+# Settings: Namespace(PN='../../../instances/hadoop/hadoop_extensions/us-mid2.pn', VDC='../../../instances/hadoop/hadoop_extensions/hadoop_15_1bw.vn', affinity=False, affinity_soft=False, allow_virtual_switches_in_switches=False, anti_affinity=False, assert_all_physical_edges=True, binary_search=True, bitblast_addition=False, bitblast_addition_shadow=False, bvwidth=1, configured=False, conflict_limit=0, debug=False, decide_opt_lits=True, directed_links=False, flush_pb_theory=False, force_virtual_switches=False, ignore_ram_constraints=False, ignore_storage_constraints=False, ijcai_settings=False, intrinsic_edge_constraints=False, intrinsic_edge_sets=True, large_res_opt=True, logfile=None, max_cores=8, max_ram=16, max_resource=None, max_storage=1, max_vms=15, min_cores=True, min_servers=False, monosat_defaults=False, opt_conflict_limit=0, opt_detect_sat=False, opt_time_limit=-1, output=None, popcount='BV', prop_assumps=False, refine_flow=True, remove_all_flow_cycles=False, remove_flow_cycles=False, remove_flow_cycles_python=False, repeat=True, rnd_restart=True, rnd_theory_freq=0.99, rnd_theory_order=False, separate_reach_constraints=False, static_flow_caps=True, theory_order_vsids=True, timelog='./timelogs/mincores/config_results_hadoop_us-mid2_15vm_1bw', tree_addition=True, use_cover_for_refinement=True, use_min_cost_max_flow=False, vsids_balance=1, vsids_both=True)
+init 20.531255 20.531255
+1 32.425969 52.957224
+2 45.819199 98.776423
+3 54.487164 153.263587
+4 64.832894 218.096481
+5 78.993095 297.089576
+6 84.557174 381.646750
+7 92.279576 473.926326
+8 108.423247 582.349573
+9 113.748678 696.098251
+10 120.034645 816.132896
+11 130.277632 946.410528
+12 141.832521 1088.243049
+13 159.877548 1248.120597
+14 149.586037 1397.706634
+15 162.082027 1559.788661
+16 171.232803 1731.021464
+17 195.776916 1926.798380
+18 199.663550 2126.461930
+19 191.581168 2318.043098
+20 220.872007 2538.915105
+21 214.164295 2753.079400
+22 230.063214 2983.142614
+23 239.090028 3222.232642
+24 239.114812 3461.347454
