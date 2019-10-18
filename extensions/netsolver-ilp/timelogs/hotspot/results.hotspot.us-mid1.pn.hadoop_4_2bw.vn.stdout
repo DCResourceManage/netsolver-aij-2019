@@ -1,0 +1,29 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hotspot.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extensions/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/hadoop_extensions/hadoop_4_2bw.vn
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/hotspot/results.hotspot.us-mid1.pn.hadoop_4_2bw.vn.log
+[runlim] start:			Sun Sep 22 12:28:13 2019
+[runlim] main pid:		35835
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 37.8 MB
+[runlim] sample:		20.0 seconds, 36.9 MB
+[runlim] sample:		30.0 seconds, 37.0 MB
+[runlim] sample:		40.0 seconds, 39.1 MB
+48.001422
+705
+Median time: 0.061777 s
+[runlim] end:			Sun Sep 22 12:29:01 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			48.30 seconds
+[runlim] time:			48.09 seconds
+[runlim] space:			42.8 MB
+[runlim] samples:		481

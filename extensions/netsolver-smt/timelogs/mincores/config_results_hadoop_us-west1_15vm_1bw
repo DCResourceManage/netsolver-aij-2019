@@ -1,0 +1,20 @@
+# instance assign_to_us-west1.pn
+# Settings: Namespace(PN='../../../instances/hadoop/hadoop_extensions/us-west1.pn', VDC='../../../instances/hadoop/hadoop_extensions/hadoop_15_1bw.vn', affinity=False, affinity_soft=False, allow_virtual_switches_in_switches=False, anti_affinity=False, assert_all_physical_edges=True, binary_search=True, bitblast_addition=False, bitblast_addition_shadow=False, bvwidth=1, configured=False, conflict_limit=0, debug=False, decide_opt_lits=True, directed_links=False, flush_pb_theory=False, force_virtual_switches=False, ignore_ram_constraints=False, ignore_storage_constraints=False, ijcai_settings=False, intrinsic_edge_constraints=False, intrinsic_edge_sets=True, large_res_opt=True, logfile=None, max_cores=8, max_ram=16, max_resource=None, max_storage=1, max_vms=15, min_cores=True, min_servers=False, monosat_defaults=False, opt_conflict_limit=0, opt_detect_sat=False, opt_time_limit=-1, output=None, popcount='BV', prop_assumps=False, refine_flow=True, remove_all_flow_cycles=False, remove_flow_cycles=False, remove_flow_cycles_python=False, repeat=True, rnd_restart=True, rnd_theory_freq=0.99, rnd_theory_order=False, separate_reach_constraints=False, static_flow_caps=True, theory_order_vsids=True, timelog='./monosat-master/timelogs/mincores/config_results_hadoop_us-west1_15vm_1bw', tree_addition=True, use_cover_for_refinement=True, use_min_cost_max_flow=False, vsids_balance=1, vsids_both=True)
+init 32.112580 32.112580
+1 59.325125 91.437705
+2 73.699836 165.137541
+3 91.943944 257.081485
+4 111.960052 369.041537
+5 135.978591 505.020128
+6 142.808786 647.828914
+7 177.187657 825.016571
+8 175.081591 1000.098162
+9 182.150249 1182.248411
+10 200.381744 1382.630155
+11 224.189178 1606.819333
+12 271.774823 1878.594156
+13 270.907691 2149.501847
+14 258.786811 2408.288658
+15 270.837637 2679.126295
+16 300.226680 2979.352975
+17 309.419431 3288.772406

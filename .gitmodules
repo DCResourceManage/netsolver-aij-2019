@@ -1,0 +1,4 @@
+[submodule "third_party/monosat"]
+	path = third_party/monosat
+	url = https://github.com/sambayless/monosat.git
+	branch = master

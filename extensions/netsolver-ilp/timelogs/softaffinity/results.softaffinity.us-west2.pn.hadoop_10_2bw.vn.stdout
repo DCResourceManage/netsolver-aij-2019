@@ -1,0 +1,54 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-softaffinity.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extensions/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/hadoop_extensions/hadoop_10_2bw.vn
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/softaffinity/results.softaffinity.us-west2.pn.hadoop_10_2bw.vn.log
+[runlim] start:			Sun Sep 22 23:54:46 2019
+[runlim] main pid:		47909
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 48.5 MB
+[runlim] sample:		20.0 seconds, 64.3 MB
+[runlim] sample:		30.0 seconds, 61.3 MB
+[runlim] sample:		40.0 seconds, 61.1 MB
+[runlim] sample:		50.0 seconds, 63.8 MB
+[runlim] sample:		60.0 seconds, 58.7 MB
+[runlim] sample:		70.0 seconds, 55.7 MB
+[runlim] sample:		80.0 seconds, 61.6 MB
+[runlim] sample:		90.0 seconds, 62.0 MB
+[runlim] sample:		100.0 seconds, 61.0 MB
+[runlim] sample:		110.0 seconds, 59.1 MB
+[runlim] sample:		120.0 seconds, 68.9 MB
+[runlim] sample:		130.0 seconds, 65.8 MB
+[runlim] sample:		140.0 seconds, 63.5 MB
+[runlim] sample:		150.0 seconds, 57.9 MB
+[runlim] sample:		160.0 seconds, 70.5 MB
+[runlim] sample:		170.0 seconds, 66.6 MB
+[runlim] sample:		180.0 seconds, 68.1 MB
+[runlim] sample:		190.0 seconds, 61.0 MB
+[runlim] sample:		200.0 seconds, 67.5 MB
+[runlim] sample:		210.0 seconds, 68.3 MB
+[runlim] sample:		220.0 seconds, 65.0 MB
+[runlim] sample:		230.0 seconds, 66.0 MB
+[runlim] sample:		240.0 seconds, 63.8 MB
+[runlim] sample:		250.0 seconds, 71.2 MB
+[runlim] sample:		260.0 seconds, 61.2 MB
+[runlim] sample:		270.0 seconds, 66.9 MB
+[runlim] sample:		280.0 seconds, 66.9 MB
+[runlim] sample:		290.0 seconds, 66.9 MB
+295.62356
+167
+Median time: 1.73474 s
+[runlim] end:			Sun Sep 22 23:59:42 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			296.65 seconds
+[runlim] time:			295.69 seconds
+[runlim] space:			86.1 MB
+[runlim] samples:		2957

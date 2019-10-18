@@ -1,0 +1,63 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hotspot.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extensions/us-mid2.pn
+[runlim] argv[3]:		../../../instances/hadoop/hadoop_extensions/hadoop_15_2bw.vn
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/hotspot/results.hotspot.us-mid2.pn.hadoop_15_2bw.vn.log
+[runlim] start:			Sun Sep 22 13:04:11 2019
+[runlim] main pid:		35879
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 143.8 MB
+[runlim] sample:		20.0 seconds, 143.8 MB
+[runlim] sample:		30.0 seconds, 165.4 MB
+[runlim] sample:		40.0 seconds, 166.7 MB
+[runlim] sample:		50.0 seconds, 153.8 MB
+[runlim] sample:		60.0 seconds, 181.6 MB
+[runlim] sample:		70.0 seconds, 184.5 MB
+[runlim] sample:		80.0 seconds, 190.2 MB
+[runlim] sample:		90.0 seconds, 189.7 MB
+[runlim] sample:		100.0 seconds, 170.0 MB
+[runlim] sample:		110.0 seconds, 156.6 MB
+[runlim] sample:		120.0 seconds, 175.8 MB
+[runlim] sample:		130.0 seconds, 175.8 MB
+[runlim] sample:		140.0 seconds, 150.7 MB
+[runlim] sample:		150.0 seconds, 169.3 MB
+[runlim] sample:		160.0 seconds, 171.0 MB
+[runlim] sample:		170.0 seconds, 172.4 MB
+[runlim] sample:		180.0 seconds, 163.3 MB
+[runlim] sample:		190.0 seconds, 169.3 MB
+[runlim] sample:		200.0 seconds, 163.4 MB
+[runlim] sample:		210.0 seconds, 161.8 MB
+[runlim] sample:		220.0 seconds, 170.5 MB
+[runlim] sample:		230.0 seconds, 168.4 MB
+[runlim] sample:		240.0 seconds, 165.6 MB
+[runlim] sample:		250.0 seconds, 162.6 MB
+[runlim] sample:		260.0 seconds, 165.8 MB
+[runlim] sample:		270.0 seconds, 155.4 MB
+[runlim] sample:		280.0 seconds, 165.7 MB
+[runlim] sample:		290.0 seconds, 151.3 MB
+[runlim] sample:		300.0 seconds, 149.4 MB
+[runlim] sample:		310.0 seconds, 151.7 MB
+[runlim] sample:		320.0 seconds, 161.8 MB
+[runlim] sample:		330.0 seconds, 157.2 MB
+[runlim] sample:		340.0 seconds, 156.4 MB
+[runlim] sample:		350.0 seconds, 154.6 MB
+[runlim] sample:		360.0 seconds, 151.2 MB
+[runlim] sample:		370.0 seconds, 153.0 MB
+[runlim] sample:		380.0 seconds, 154.3 MB
+389.461116
+117
+Median time: 1.67177 s
+[runlim] end:			Sun Sep 22 13:10:41 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			390.27 seconds
+[runlim] time:			389.59 seconds
+[runlim] space:			197.5 MB
+[runlim] samples:		3896

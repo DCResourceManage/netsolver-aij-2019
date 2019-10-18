@@ -1,0 +1,14 @@
+# instance assign_to_BCube_n12_k2_bw10_cpu16.pn
+# Settings: Namespace(PN='../../../instances/fattree-bcube/BCube_n12_k2_bw10_cpu16.pn', VDC_LIST='../../../instances/fattree-bcube/instance_list_15vm_rnd.txt', affinity=False, affinity_soft=True, allow_virtual_switches_in_switches=True, anti_affinity=False, assert_all_physical_edges=False, binary_search=True, bitblast_addition=False, bitblast_addition_shadow=False, configured=True, conflict_limit=-1, deallocate_prob=0.0, debug=False, decide_opt_lits=True, directed_links=True, flush_pb_theory=False, force_virtual_switches=False, ignore_ram_constraints=True, ignore_storage_constraints=True, ijcai_settings=False, intrinsic_edge_constraints=False, intrinsic_edge_sets=True, logfile=None, max_cores=1, max_ram=1, max_storage=1, max_vms=15, min_cores=False, min_servers=False, opt_conflict_limit=0, opt_detect_sat=False, opt_time_limit=-1, output=None, popcount='BV', prop_assumps=True, refine_flow=True, remove_all_flow_cycles=False, remove_flow_cycles=False, remove_flow_cycles_python=False, rnd_restart=True, rnd_theory_freq=0.99, rnd_theory_order=False, separate_reach_constraints=False, static_flow_caps=True, theory_order_vsids=True, timelog='timelogs/config_results_vdcmapper_bcube12_15vm', tree_addition=True, use_cover_for_refinement=True, use_min_cost_max_flow=False, vsids_balance=1, vsids_both=True)
+init 55.733355 55.733355
+1 84.258310 139.991665
+2 8.865377 148.857042
+3 9.219161 158.076203
+4 11.405067 169.481270
+5 23.122559 192.603829
+6 15.723536 208.327365
+7 25.967267 234.294632
+8 194.351083 428.645715
+9 664.458868 1093.104583
+10 1763.887280 2856.991863
+11 175.620102 3032.611965

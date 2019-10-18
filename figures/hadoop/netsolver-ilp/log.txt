@@ -1,0 +1,1425 @@
+--- starting: results.us-mid1.pn.instance_list_hadoop_4vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid1.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:45:52 2019
+[runlim] main pid:		27388
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 36.5 MB
+[runlim] sample:		20.0 seconds, 36.5 MB
+[runlim] sample:		30.0 seconds, 36.5 MB
+[runlim] sample:		40.0 seconds, 36.5 MB
+[runlim] sample:		50.0 seconds, 36.5 MB
+[runlim] sample:		60.0 seconds, 36.5 MB
+69.330446
+158
+Median time: 0.435326 s
+[runlim] end:			Tue Sep 24 01:47:01 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			69.81 seconds
+[runlim] time:			69.39 seconds
+[runlim] space:			36.5 MB
+[runlim] samples:		694
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_4vm_rnd.txt.log
+
+--- starting: results.us-mid1.pn.instance_list_hadoop_6vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid1.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:47:01 2019
+[runlim] main pid:		27502
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 44.7 MB
+[runlim] sample:		20.0 seconds, 44.7 MB
+[runlim] sample:		30.0 seconds, 44.7 MB
+[runlim] sample:		40.0 seconds, 44.9 MB
+[runlim] sample:		50.0 seconds, 44.9 MB
+[runlim] sample:		60.0 seconds, 44.9 MB
+[runlim] sample:		70.0 seconds, 44.9 MB
+[runlim] sample:		80.0 seconds, 44.9 MB
+[runlim] sample:		90.0 seconds, 44.9 MB
+91.300765
+137
+Median time: 0.667929 s
+[runlim] end:			Tue Sep 24 01:48:33 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			92.24 seconds
+[runlim] time:			91.39 seconds
+[runlim] space:			44.9 MB
+[runlim] samples:		914
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_6vm_rnd.txt.log
+
+--- starting: results.us-mid1.pn.instance_list_hadoop_8vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid1.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:48:33 2019
+[runlim] main pid:		27627
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 53.3 MB
+[runlim] sample:		20.0 seconds, 53.3 MB
+[runlim] sample:		30.0 seconds, 53.3 MB
+[runlim] sample:		40.0 seconds, 53.3 MB
+[runlim] sample:		50.0 seconds, 53.3 MB
+[runlim] sample:		60.0 seconds, 53.3 MB
+[runlim] sample:		70.0 seconds, 53.3 MB
+[runlim] sample:		80.0 seconds, 53.3 MB
+[runlim] sample:		90.0 seconds, 53.3 MB
+95.467322
+111
+Median time: 0.855046 s
+[runlim] end:			Tue Sep 24 01:50:08 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			95.86 seconds
+[runlim] time:			95.59 seconds
+[runlim] space:			53.3 MB
+[runlim] samples:		956
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_8vm_rnd.txt.log
+
+--- starting: results.us-mid1.pn.instance_list_hadoop_10vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid1.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:50:08 2019
+[runlim] main pid:		27721
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 58.3 MB
+[runlim] sample:		20.0 seconds, 58.7 MB
+[runlim] sample:		30.0 seconds, 59.5 MB
+[runlim] sample:		40.0 seconds, 59.5 MB
+[runlim] sample:		50.0 seconds, 59.5 MB
+[runlim] sample:		60.0 seconds, 59.5 MB
+[runlim] sample:		70.0 seconds, 59.5 MB
+[runlim] sample:		80.0 seconds, 59.5 MB
+[runlim] sample:		90.0 seconds, 59.5 MB
+[runlim] sample:		100.0 seconds, 59.5 MB
+100.839592
+92
+Median time: 1.08702 s
+[runlim] end:			Tue Sep 24 01:51:49 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			101.85 seconds
+[runlim] time:			100.89 seconds
+[runlim] space:			59.5 MB
+[runlim] samples:		1009
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_10vm_rnd.txt.log
+
+--- starting: results.us-mid1.pn.instance_list_hadoop_12vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid1.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:51:49 2019
+[runlim] main pid:		27725
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 65.4 MB
+[runlim] sample:		20.0 seconds, 65.6 MB
+[runlim] sample:		30.0 seconds, 66.1 MB
+[runlim] sample:		40.0 seconds, 66.1 MB
+[runlim] sample:		50.0 seconds, 66.1 MB
+[runlim] sample:		60.0 seconds, 64.5 MB
+[runlim] sample:		70.0 seconds, 64.5 MB
+[runlim] sample:		80.0 seconds, 59.9 MB
+[runlim] sample:		90.0 seconds, 59.9 MB
+[runlim] sample:		100.0 seconds, 63.4 MB
+105.650362
+81
+Median time: 1.29706 s
+[runlim] end:			Tue Sep 24 01:53:35 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			106.66 seconds
+[runlim] time:			105.79 seconds
+[runlim] space:			66.1 MB
+[runlim] samples:		1058
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_12vm_rnd.txt.log
+
+--- starting: results.us-mid1.pn.instance_list_hadoop_14vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid1.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:53:35 2019
+[runlim] main pid:		27728
+Academic license - for non-commercial use only
+3.132064
+1
+Median time: 1.51799 s
+[runlim] end:			Tue Sep 24 01:53:38 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			3.95 seconds
+[runlim] time:			3.19 seconds
+[runlim] space:			69.6 MB
+[runlim] samples:		32
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid1.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-mid1.pn.instance_list_hadoop_14vm_rnd.txt.log
+
+--- starting: results.us-mid2.pn.instance_list_hadoop_4vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid2.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:53:38 2019
+[runlim] main pid:		27731
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 50.5 MB
+[runlim] sample:		20.0 seconds, 48.5 MB
+[runlim] sample:		30.0 seconds, 52.9 MB
+[runlim] sample:		40.0 seconds, 52.9 MB
+[runlim] sample:		50.0 seconds, 52.9 MB
+[runlim] sample:		60.0 seconds, 52.9 MB
+[runlim] sample:		70.0 seconds, 53.4 MB
+[runlim] sample:		80.0 seconds, 53.4 MB
+[runlim] sample:		90.0 seconds, 53.4 MB
+[runlim] sample:		100.0 seconds, 53.5 MB
+[runlim] sample:		110.0 seconds, 52.3 MB
+[runlim] sample:		120.0 seconds, 52.5 MB
+[runlim] sample:		130.0 seconds, 52.8 MB
+[runlim] sample:		140.0 seconds, 52.8 MB
+[runlim] sample:		150.0 seconds, 52.8 MB
+[runlim] sample:		160.0 seconds, 52.8 MB
+[runlim] sample:		170.0 seconds, 52.8 MB
+[runlim] sample:		180.0 seconds, 52.8 MB
+[runlim] sample:		190.0 seconds, 52.8 MB
+[runlim] sample:		200.0 seconds, 52.8 MB
+[runlim] sample:		210.0 seconds, 52.8 MB
+[runlim] sample:		220.0 seconds, 52.8 MB
+[runlim] sample:		230.0 seconds, 52.8 MB
+[runlim] sample:		240.0 seconds, 52.8 MB
+[runlim] sample:		250.0 seconds, 52.8 MB
+[runlim] sample:		260.0 seconds, 52.8 MB
+[runlim] sample:		270.0 seconds, 52.8 MB
+[runlim] sample:		280.0 seconds, 52.8 MB
+[runlim] sample:		290.0 seconds, 52.8 MB
+298.593737
+331
+Median time: 0.902795 s
+[runlim] end:			Tue Sep 24 01:58:37 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			299.69 seconds
+[runlim] time:			298.69 seconds
+[runlim] space:			53.5 MB
+[runlim] samples:		2987
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_4vm_rnd.txt.log
+
+--- starting: results.us-mid2.pn.instance_list_hadoop_6vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid2.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:58:37 2019
+[runlim] main pid:		27735
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 67.6 MB
+[runlim] sample:		20.0 seconds, 67.9 MB
+[runlim] sample:		30.0 seconds, 69.2 MB
+[runlim] sample:		40.0 seconds, 67.0 MB
+[runlim] sample:		50.0 seconds, 67.7 MB
+[runlim] sample:		60.0 seconds, 67.5 MB
+[runlim] sample:		70.0 seconds, 67.9 MB
+[runlim] sample:		80.0 seconds, 68.2 MB
+[runlim] sample:		90.0 seconds, 68.3 MB
+[runlim] sample:		100.0 seconds, 68.3 MB
+[runlim] sample:		110.0 seconds, 66.4 MB
+[runlim] sample:		120.0 seconds, 66.6 MB
+[runlim] sample:		130.0 seconds, 67.7 MB
+[runlim] sample:		140.0 seconds, 67.7 MB
+[runlim] sample:		150.0 seconds, 67.7 MB
+[runlim] sample:		160.0 seconds, 67.7 MB
+[runlim] sample:		170.0 seconds, 67.7 MB
+[runlim] sample:		180.0 seconds, 67.7 MB
+[runlim] sample:		190.0 seconds, 66.6 MB
+[runlim] sample:		200.0 seconds, 66.6 MB
+[runlim] sample:		210.0 seconds, 66.5 MB
+[runlim] sample:		220.0 seconds, 66.5 MB
+[runlim] sample:		230.0 seconds, 66.5 MB
+[runlim] sample:		240.0 seconds, 66.5 MB
+[runlim] sample:		250.0 seconds, 66.5 MB
+[runlim] sample:		260.0 seconds, 66.5 MB
+[runlim] sample:		270.0 seconds, 66.5 MB
+[runlim] sample:		280.0 seconds, 66.5 MB
+[runlim] sample:		290.0 seconds, 66.5 MB
+[runlim] sample:		300.0 seconds, 66.5 MB
+[runlim] sample:		310.0 seconds, 66.5 MB
+[runlim] sample:		320.0 seconds, 66.5 MB
+[runlim] sample:		330.0 seconds, 66.5 MB
+[runlim] sample:		340.0 seconds, 66.5 MB
+[runlim] sample:		350.0 seconds, 66.5 MB
+[runlim] sample:		360.0 seconds, 66.5 MB
+[runlim] sample:		370.0 seconds, 66.5 MB
+[runlim] sample:		380.0 seconds, 66.5 MB
+386.328427
+287
+Median time: 1.34832 s
+[runlim] end:			Tue Sep 24 02:05:04 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			387.19 seconds
+[runlim] time:			386.38 seconds
+[runlim] space:			69.5 MB
+[runlim] samples:		3864
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_6vm_rnd.txt.log
+
+--- starting: results.us-mid2.pn.instance_list_hadoop_8vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid2.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 02:05:04 2019
+[runlim] main pid:		27739
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 80.4 MB
+[runlim] sample:		20.0 seconds, 84.1 MB
+[runlim] sample:		30.0 seconds, 84.4 MB
+[runlim] sample:		40.0 seconds, 84.1 MB
+[runlim] sample:		50.0 seconds, 84.3 MB
+[runlim] sample:		60.0 seconds, 84.3 MB
+[runlim] sample:		70.0 seconds, 82.9 MB
+[runlim] sample:		80.0 seconds, 84.2 MB
+[runlim] sample:		90.0 seconds, 84.2 MB
+[runlim] sample:		100.0 seconds, 84.2 MB
+[runlim] sample:		110.0 seconds, 84.2 MB
+[runlim] sample:		120.0 seconds, 84.2 MB
+[runlim] sample:		130.0 seconds, 84.2 MB
+[runlim] sample:		140.0 seconds, 84.2 MB
+[runlim] sample:		150.0 seconds, 84.2 MB
+[runlim] sample:		160.0 seconds, 84.2 MB
+[runlim] sample:		170.0 seconds, 81.9 MB
+[runlim] sample:		180.0 seconds, 81.8 MB
+[runlim] sample:		190.0 seconds, 82.3 MB
+[runlim] sample:		200.0 seconds, 81.4 MB
+[runlim] sample:		210.0 seconds, 81.9 MB
+[runlim] sample:		220.0 seconds, 81.6 MB
+[runlim] sample:		230.0 seconds, 81.6 MB
+[runlim] sample:		240.0 seconds, 81.9 MB
+[runlim] sample:		250.0 seconds, 81.7 MB
+[runlim] sample:		260.0 seconds, 81.7 MB
+[runlim] sample:		270.0 seconds, 81.6 MB
+[runlim] sample:		280.0 seconds, 82.2 MB
+[runlim] sample:		290.0 seconds, 82.4 MB
+[runlim] sample:		300.0 seconds, 81.4 MB
+[runlim] sample:		310.0 seconds, 81.6 MB
+[runlim] sample:		320.0 seconds, 81.6 MB
+[runlim] sample:		330.0 seconds, 81.6 MB
+[runlim] sample:		340.0 seconds, 81.4 MB
+[runlim] sample:		350.0 seconds, 81.4 MB
+[runlim] sample:		360.0 seconds, 81.4 MB
+[runlim] sample:		370.0 seconds, 81.4 MB
+[runlim] sample:		380.0 seconds, 81.4 MB
+[runlim] sample:		390.0 seconds, 81.4 MB
+[runlim] sample:		400.0 seconds, 81.4 MB
+404.751126
+230
+Median time: 1.75381 s
+[runlim] end:			Tue Sep 24 02:11:49 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			405.13 seconds
+[runlim] time:			404.89 seconds
+[runlim] space:			84.4 MB
+[runlim] samples:		4049
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_8vm_rnd.txt.log
+
+--- starting: results.us-mid2.pn.instance_list_hadoop_10vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid2.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 02:11:49 2019
+[runlim] main pid:		27742
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 95.3 MB
+[runlim] sample:		20.0 seconds, 98.4 MB
+[runlim] sample:		30.0 seconds, 100.8 MB
+[runlim] sample:		40.0 seconds, 96.9 MB
+[runlim] sample:		50.0 seconds, 97.2 MB
+[runlim] sample:		60.0 seconds, 97.4 MB
+[runlim] sample:		70.0 seconds, 97.8 MB
+[runlim] sample:		80.0 seconds, 99.3 MB
+[runlim] sample:		90.0 seconds, 99.3 MB
+[runlim] sample:		100.0 seconds, 99.3 MB
+[runlim] sample:		110.0 seconds, 99.3 MB
+[runlim] sample:		120.0 seconds, 99.3 MB
+[runlim] sample:		130.0 seconds, 99.3 MB
+[runlim] sample:		140.0 seconds, 96.1 MB
+[runlim] sample:		150.0 seconds, 97.6 MB
+[runlim] sample:		160.0 seconds, 97.6 MB
+[runlim] sample:		170.0 seconds, 94.9 MB
+[runlim] sample:		180.0 seconds, 96.2 MB
+[runlim] sample:		190.0 seconds, 96.2 MB
+[runlim] sample:		200.0 seconds, 96.2 MB
+[runlim] sample:		210.0 seconds, 96.2 MB
+[runlim] sample:		220.0 seconds, 96.2 MB
+[runlim] sample:		230.0 seconds, 96.2 MB
+[runlim] sample:		240.0 seconds, 96.2 MB
+[runlim] sample:		250.0 seconds, 96.2 MB
+[runlim] sample:		260.0 seconds, 96.2 MB
+[runlim] sample:		270.0 seconds, 96.2 MB
+[runlim] sample:		280.0 seconds, 95.0 MB
+[runlim] sample:		290.0 seconds, 94.9 MB
+[runlim] sample:		300.0 seconds, 95.3 MB
+[runlim] sample:		310.0 seconds, 95.1 MB
+[runlim] sample:		320.0 seconds, 95.1 MB
+[runlim] sample:		330.0 seconds, 95.1 MB
+[runlim] sample:		340.0 seconds, 95.1 MB
+[runlim] sample:		350.0 seconds, 95.1 MB
+[runlim] sample:		360.0 seconds, 95.1 MB
+[runlim] sample:		370.0 seconds, 94.9 MB
+[runlim] sample:		380.0 seconds, 94.6 MB
+[runlim] sample:		390.0 seconds, 94.6 MB
+[runlim] sample:		400.0 seconds, 94.6 MB
+[runlim] sample:		410.0 seconds, 94.4 MB
+[runlim] sample:		420.0 seconds, 93.9 MB
+[runlim] sample:		430.0 seconds, 87.8 MB
+[runlim] sample:		440.0 seconds, 93.9 MB
+448.079256
+193
+Median time: 2.33127 s
+[runlim] end:			Tue Sep 24 02:19:17 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			448.41 seconds
+[runlim] time:			448.18 seconds
+[runlim] space:			100.9 MB
+[runlim] samples:		4482
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_10vm_rnd.txt.log
+
+--- starting: results.us-mid2.pn.instance_list_hadoop_12vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid2.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 02:19:17 2019
+[runlim] main pid:		27761
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 106.6 MB
+[runlim] sample:		20.0 seconds, 109.2 MB
+[runlim] sample:		30.0 seconds, 112.0 MB
+[runlim] sample:		40.0 seconds, 100.1 MB
+[runlim] sample:		50.0 seconds, 110.2 MB
+[runlim] sample:		60.0 seconds, 113.2 MB
+[runlim] sample:		70.0 seconds, 113.3 MB
+[runlim] sample:		80.0 seconds, 113.5 MB
+[runlim] sample:		90.0 seconds, 113.3 MB
+[runlim] sample:		100.0 seconds, 113.3 MB
+[runlim] sample:		110.0 seconds, 113.3 MB
+[runlim] sample:		120.0 seconds, 113.1 MB
+[runlim] sample:		130.0 seconds, 113.3 MB
+[runlim] sample:		140.0 seconds, 109.4 MB
+[runlim] sample:		150.0 seconds, 110.8 MB
+[runlim] sample:		160.0 seconds, 111.0 MB
+[runlim] sample:		170.0 seconds, 102.2 MB
+[runlim] sample:		180.0 seconds, 108.7 MB
+[runlim] sample:		190.0 seconds, 109.2 MB
+[runlim] sample:		200.0 seconds, 109.2 MB
+[runlim] sample:		210.0 seconds, 109.2 MB
+[runlim] sample:		220.0 seconds, 109.2 MB
+[runlim] sample:		230.0 seconds, 109.2 MB
+[runlim] sample:		240.0 seconds, 109.2 MB
+[runlim] sample:		250.0 seconds, 109.2 MB
+[runlim] sample:		260.0 seconds, 109.2 MB
+[runlim] sample:		270.0 seconds, 107.3 MB
+[runlim] sample:		280.0 seconds, 108.3 MB
+[runlim] sample:		290.0 seconds, 108.3 MB
+[runlim] sample:		300.0 seconds, 108.3 MB
+[runlim] sample:		310.0 seconds, 108.3 MB
+[runlim] sample:		320.0 seconds, 99.8 MB
+[runlim] sample:		330.0 seconds, 108.0 MB
+[runlim] sample:		340.0 seconds, 99.9 MB
+[runlim] sample:		350.0 seconds, 107.9 MB
+[runlim] sample:		360.0 seconds, 99.4 MB
+[runlim] sample:		370.0 seconds, 98.4 MB
+[runlim] sample:		380.0 seconds, 98.8 MB
+[runlim] sample:		390.0 seconds, 107.8 MB
+[runlim] sample:		400.0 seconds, 94.0 MB
+[runlim] sample:		410.0 seconds, 107.5 MB
+[runlim] sample:		420.0 seconds, 99.3 MB
+[runlim] sample:		430.0 seconds, 99.4 MB
+[runlim] sample:		440.0 seconds, 99.1 MB
+[runlim] sample:		450.0 seconds, 97.9 MB
+[runlim] sample:		460.0 seconds, 106.7 MB
+466.658924
+168
+Median time: 2.7776 s
+[runlim] end:			Tue Sep 24 02:27:04 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			467.30 seconds
+[runlim] time:			466.79 seconds
+[runlim] space:			113.7 MB
+[runlim] samples:		4668
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_12vm_rnd.txt.log
+
+--- starting: results.us-mid2.pn.instance_list_hadoop_14vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid2.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 02:27:04 2019
+[runlim] main pid:		27790
+Academic license - for non-commercial use only
+6.977833
+1
+Median time: 3.2224 s
+[runlim] end:			Tue Sep 24 02:27:11 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.49 seconds
+[runlim] time:			7.10 seconds
+[runlim] space:			124.4 MB
+[runlim] samples:		71
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-mid2.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-mid2.pn.instance_list_hadoop_14vm_rnd.txt.log
+
+--- starting: results.us-west1.pn.instance_list_hadoop_4vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west1.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 02:27:11 2019
+[runlim] main pid:		27793
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 68.2 MB
+[runlim] sample:		20.0 seconds, 69.2 MB
+[runlim] sample:		30.0 seconds, 69.2 MB
+[runlim] sample:		40.0 seconds, 63.6 MB
+[runlim] sample:		50.0 seconds, 68.8 MB
+[runlim] sample:		60.0 seconds, 68.8 MB
+[runlim] sample:		70.0 seconds, 62.2 MB
+[runlim] sample:		80.0 seconds, 68.6 MB
+[runlim] sample:		90.0 seconds, 68.6 MB
+[runlim] sample:		100.0 seconds, 68.6 MB
+[runlim] sample:		110.0 seconds, 68.6 MB
+[runlim] sample:		120.0 seconds, 68.6 MB
+[runlim] sample:		130.0 seconds, 68.6 MB
+[runlim] sample:		140.0 seconds, 68.6 MB
+[runlim] sample:		150.0 seconds, 67.8 MB
+[runlim] sample:		160.0 seconds, 69.1 MB
+[runlim] sample:		170.0 seconds, 69.1 MB
+[runlim] sample:		180.0 seconds, 69.1 MB
+[runlim] sample:		190.0 seconds, 69.1 MB
+[runlim] sample:		200.0 seconds, 68.6 MB
+[runlim] sample:		210.0 seconds, 67.6 MB
+[runlim] sample:		220.0 seconds, 68.7 MB
+[runlim] sample:		230.0 seconds, 67.6 MB
+[runlim] sample:		240.0 seconds, 68.2 MB
+[runlim] sample:		250.0 seconds, 68.4 MB
+[runlim] sample:		260.0 seconds, 67.9 MB
+[runlim] sample:		270.0 seconds, 64.1 MB
+[runlim] sample:		280.0 seconds, 67.9 MB
+[runlim] sample:		290.0 seconds, 64.3 MB
+[runlim] sample:		300.0 seconds, 67.9 MB
+[runlim] sample:		310.0 seconds, 67.9 MB
+[runlim] sample:		320.0 seconds, 67.9 MB
+[runlim] sample:		330.0 seconds, 67.7 MB
+[runlim] sample:		340.0 seconds, 67.7 MB
+[runlim] sample:		350.0 seconds, 67.7 MB
+[runlim] sample:		360.0 seconds, 67.7 MB
+[runlim] sample:		370.0 seconds, 67.7 MB
+[runlim] sample:		380.0 seconds, 67.7 MB
+[runlim] sample:		390.0 seconds, 67.7 MB
+[runlim] sample:		400.0 seconds, 67.7 MB
+[runlim] sample:		410.0 seconds, 67.7 MB
+[runlim] sample:		420.0 seconds, 67.7 MB
+[runlim] sample:		430.0 seconds, 67.7 MB
+[runlim] sample:		440.0 seconds, 67.7 MB
+[runlim] sample:		450.0 seconds, 67.6 MB
+[runlim] sample:		460.0 seconds, 67.6 MB
+[runlim] sample:		470.0 seconds, 67.6 MB
+[runlim] sample:		480.0 seconds, 67.5 MB
+[runlim] sample:		490.0 seconds, 67.5 MB
+[runlim] sample:		500.0 seconds, 67.5 MB
+[runlim] sample:		510.0 seconds, 67.5 MB
+[runlim] sample:		520.0 seconds, 67.6 MB
+[runlim] sample:		530.0 seconds, 67.4 MB
+[runlim] sample:		540.0 seconds, 67.4 MB
+[runlim] sample:		550.0 seconds, 67.7 MB
+[runlim] sample:		560.0 seconds, 64.1 MB
+[runlim] sample:		570.0 seconds, 67.5 MB
+[runlim] sample:		580.0 seconds, 63.7 MB
+[runlim] sample:		590.0 seconds, 67.0 MB
+[runlim] sample:		600.0 seconds, 67.3 MB
+[runlim] sample:		610.0 seconds, 67.1 MB
+[runlim] sample:		620.0 seconds, 67.0 MB
+[runlim] sample:		630.0 seconds, 67.1 MB
+[runlim] sample:		640.0 seconds, 66.8 MB
+[runlim] sample:		650.0 seconds, 67.1 MB
+[runlim] sample:		660.0 seconds, 62.8 MB
+[runlim] sample:		670.0 seconds, 67.3 MB
+[runlim] sample:		680.0 seconds, 62.9 MB
+682.278409
+499
+Median time: 1.37389 s
+[runlim] end:			Tue Sep 24 02:38:33 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			682.94 seconds
+[runlim] time:			682.39 seconds
+[runlim] space:			69.2 MB
+[runlim] samples:		6824
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_4vm_rnd.txt.log
+
+--- starting: results.us-west1.pn.instance_list_hadoop_6vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west1.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 02:38:33 2019
+[runlim] main pid:		27822
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 90.0 MB
+[runlim] sample:		20.0 seconds, 92.3 MB
+[runlim] sample:		30.0 seconds, 95.2 MB
+[runlim] sample:		40.0 seconds, 95.5 MB
+[runlim] sample:		50.0 seconds, 92.5 MB
+[runlim] sample:		60.0 seconds, 92.8 MB
+[runlim] sample:		70.0 seconds, 92.8 MB
+[runlim] sample:		80.0 seconds, 92.9 MB
+[runlim] sample:		90.0 seconds, 92.9 MB
+[runlim] sample:		100.0 seconds, 92.9 MB
+[runlim] sample:		110.0 seconds, 92.9 MB
+[runlim] sample:		120.0 seconds, 93.2 MB
+[runlim] sample:		130.0 seconds, 93.2 MB
+[runlim] sample:		140.0 seconds, 93.2 MB
+[runlim] sample:		150.0 seconds, 90.6 MB
+[runlim] sample:		160.0 seconds, 93.5 MB
+[runlim] sample:		170.0 seconds, 93.5 MB
+[runlim] sample:		180.0 seconds, 93.5 MB
+[runlim] sample:		190.0 seconds, 93.5 MB
+[runlim] sample:		200.0 seconds, 88.2 MB
+[runlim] sample:		210.0 seconds, 93.1 MB
+[runlim] sample:		220.0 seconds, 93.1 MB
+[runlim] sample:		230.0 seconds, 93.1 MB
+[runlim] sample:		240.0 seconds, 93.1 MB
+[runlim] sample:		250.0 seconds, 93.1 MB
+[runlim] sample:		260.0 seconds, 93.1 MB
+[runlim] sample:		270.0 seconds, 93.1 MB
+[runlim] sample:		280.0 seconds, 90.7 MB
+[runlim] sample:		290.0 seconds, 90.4 MB
+[runlim] sample:		300.0 seconds, 90.6 MB
+[runlim] sample:		310.0 seconds, 90.6 MB
+[runlim] sample:		320.0 seconds, 90.6 MB
+[runlim] sample:		330.0 seconds, 91.7 MB
+[runlim] sample:		340.0 seconds, 91.7 MB
+[runlim] sample:		350.0 seconds, 91.7 MB
+[runlim] sample:		360.0 seconds, 91.7 MB
+[runlim] sample:		370.0 seconds, 91.7 MB
+[runlim] sample:		380.0 seconds, 90.5 MB
+[runlim] sample:		390.0 seconds, 90.5 MB
+[runlim] sample:		400.0 seconds, 90.8 MB
+[runlim] sample:		410.0 seconds, 84.8 MB
+[runlim] sample:		420.0 seconds, 90.4 MB
+[runlim] sample:		430.0 seconds, 90.7 MB
+[runlim] sample:		440.0 seconds, 90.7 MB
+[runlim] sample:		450.0 seconds, 90.7 MB
+[runlim] sample:		460.0 seconds, 91.0 MB
+[runlim] sample:		470.0 seconds, 91.1 MB
+[runlim] sample:		480.0 seconds, 91.1 MB
+[runlim] sample:		490.0 seconds, 91.1 MB
+[runlim] sample:		500.0 seconds, 91.1 MB
+[runlim] sample:		510.0 seconds, 91.1 MB
+[runlim] sample:		520.0 seconds, 90.2 MB
+[runlim] sample:		530.0 seconds, 90.5 MB
+[runlim] sample:		540.0 seconds, 90.5 MB
+[runlim] sample:		550.0 seconds, 90.5 MB
+[runlim] sample:		560.0 seconds, 90.5 MB
+[runlim] sample:		570.0 seconds, 90.5 MB
+[runlim] sample:		580.0 seconds, 90.1 MB
+[runlim] sample:		590.0 seconds, 90.3 MB
+[runlim] sample:		600.0 seconds, 90.3 MB
+[runlim] sample:		610.0 seconds, 90.2 MB
+[runlim] sample:		620.0 seconds, 84.5 MB
+[runlim] sample:		630.0 seconds, 90.4 MB
+[runlim] sample:		640.0 seconds, 90.3 MB
+[runlim] sample:		650.0 seconds, 90.4 MB
+[runlim] sample:		660.0 seconds, 90.4 MB
+[runlim] sample:		670.0 seconds, 90.1 MB
+[runlim] sample:		680.0 seconds, 90.1 MB
+[runlim] sample:		690.0 seconds, 90.0 MB
+[runlim] sample:		700.0 seconds, 89.7 MB
+[runlim] sample:		710.0 seconds, 90.0 MB
+[runlim] sample:		720.0 seconds, 90.0 MB
+[runlim] sample:		730.0 seconds, 89.9 MB
+[runlim] sample:		740.0 seconds, 89.9 MB
+[runlim] sample:		750.0 seconds, 90.2 MB
+[runlim] sample:		760.0 seconds, 90.2 MB
+[runlim] sample:		770.0 seconds, 90.2 MB
+[runlim] sample:		780.0 seconds, 90.2 MB
+[runlim] sample:		790.0 seconds, 89.9 MB
+[runlim] sample:		800.0 seconds, 89.5 MB
+[runlim] sample:		810.0 seconds, 89.5 MB
+[runlim] sample:		820.0 seconds, 89.5 MB
+[runlim] sample:		830.0 seconds, 89.8 MB
+[runlim] sample:		840.0 seconds, 89.8 MB
+[runlim] sample:		850.0 seconds, 89.2 MB
+[runlim] sample:		860.0 seconds, 89.7 MB
+[runlim] sample:		870.0 seconds, 89.8 MB
+[runlim] sample:		880.0 seconds, 90.0 MB
+[runlim] sample:		890.0 seconds, 89.7 MB
+[runlim] sample:		900.0 seconds, 89.2 MB
+[runlim] sample:		910.0 seconds, 83.0 MB
+919.712262
+437
+Median time: 2.10502 s
+[runlim] end:			Tue Sep 24 02:53:53 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			920.87 seconds
+[runlim] time:			919.87 seconds
+[runlim] space:			95.8 MB
+[runlim] samples:		9199
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_6vm_rnd.txt.log
+
+--- starting: results.us-west1.pn.instance_list_hadoop_8vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west1.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 02:53:53 2019
+[runlim] main pid:		27839
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 96.7 MB
+[runlim] sample:		20.0 seconds, 111.2 MB
+[runlim] sample:		30.0 seconds, 113.4 MB
+[runlim] sample:		40.0 seconds, 113.5 MB
+[runlim] sample:		50.0 seconds, 112.9 MB
+[runlim] sample:		60.0 seconds, 113.4 MB
+[runlim] sample:		70.0 seconds, 113.7 MB
+[runlim] sample:		80.0 seconds, 113.7 MB
+[runlim] sample:		90.0 seconds, 113.2 MB
+[runlim] sample:		100.0 seconds, 104.4 MB
+[runlim] sample:		110.0 seconds, 112.2 MB
+[runlim] sample:		120.0 seconds, 112.2 MB
+[runlim] sample:		130.0 seconds, 112.2 MB
+[runlim] sample:		140.0 seconds, 112.2 MB
+[runlim] sample:		150.0 seconds, 112.2 MB
+[runlim] sample:		160.0 seconds, 111.4 MB
+[runlim] sample:		170.0 seconds, 111.4 MB
+[runlim] sample:		180.0 seconds, 111.4 MB
+[runlim] sample:		190.0 seconds, 111.4 MB
+[runlim] sample:		200.0 seconds, 111.4 MB
+[runlim] sample:		210.0 seconds, 111.4 MB
+[runlim] sample:		220.0 seconds, 111.4 MB
+[runlim] sample:		230.0 seconds, 111.4 MB
+[runlim] sample:		240.0 seconds, 111.4 MB
+[runlim] sample:		250.0 seconds, 111.4 MB
+[runlim] sample:		260.0 seconds, 113.1 MB
+[runlim] sample:		270.0 seconds, 113.1 MB
+[runlim] sample:		280.0 seconds, 113.1 MB
+[runlim] sample:		290.0 seconds, 113.1 MB
+[runlim] sample:		300.0 seconds, 113.1 MB
+[runlim] sample:		310.0 seconds, 113.1 MB
+[runlim] sample:		320.0 seconds, 113.1 MB
+[runlim] sample:		330.0 seconds, 113.1 MB
+[runlim] sample:		340.0 seconds, 113.1 MB
+[runlim] sample:		350.0 seconds, 113.1 MB
+[runlim] sample:		360.0 seconds, 113.1 MB
+[runlim] sample:		370.0 seconds, 113.1 MB
+[runlim] sample:		380.0 seconds, 113.1 MB
+[runlim] sample:		390.0 seconds, 113.1 MB
+[runlim] sample:		400.0 seconds, 113.1 MB
+[runlim] sample:		410.0 seconds, 113.1 MB
+[runlim] sample:		420.0 seconds, 113.1 MB
+[runlim] sample:		430.0 seconds, 113.1 MB
+[runlim] sample:		440.0 seconds, 113.4 MB
+[runlim] sample:		450.0 seconds, 113.3 MB
+[runlim] sample:		460.0 seconds, 113.3 MB
+[runlim] sample:		470.0 seconds, 113.3 MB
+[runlim] sample:		480.0 seconds, 113.3 MB
+[runlim] sample:		490.0 seconds, 113.3 MB
+[runlim] sample:		500.0 seconds, 113.3 MB
+[runlim] sample:		510.0 seconds, 113.3 MB
+[runlim] sample:		520.0 seconds, 113.3 MB
+[runlim] sample:		530.0 seconds, 113.3 MB
+[runlim] sample:		540.0 seconds, 113.3 MB
+[runlim] sample:		550.0 seconds, 113.3 MB
+[runlim] sample:		560.0 seconds, 113.3 MB
+[runlim] sample:		570.0 seconds, 113.3 MB
+[runlim] sample:		580.0 seconds, 113.3 MB
+[runlim] sample:		590.0 seconds, 113.3 MB
+[runlim] sample:		600.0 seconds, 113.3 MB
+[runlim] sample:		610.0 seconds, 113.3 MB
+[runlim] sample:		620.0 seconds, 113.3 MB
+[runlim] sample:		630.0 seconds, 113.3 MB
+[runlim] sample:		640.0 seconds, 113.3 MB
+[runlim] sample:		650.0 seconds, 113.3 MB
+[runlim] sample:		660.0 seconds, 113.3 MB
+[runlim] sample:		670.0 seconds, 113.3 MB
+[runlim] sample:		680.0 seconds, 113.3 MB
+[runlim] sample:		690.0 seconds, 113.3 MB
+[runlim] sample:		700.0 seconds, 113.3 MB
+[runlim] sample:		710.0 seconds, 113.3 MB
+[runlim] sample:		720.0 seconds, 113.3 MB
+[runlim] sample:		730.0 seconds, 113.3 MB
+[runlim] sample:		740.0 seconds, 113.3 MB
+[runlim] sample:		750.0 seconds, 113.3 MB
+[runlim] sample:		760.0 seconds, 113.3 MB
+[runlim] sample:		770.0 seconds, 113.3 MB
+[runlim] sample:		780.0 seconds, 113.3 MB
+[runlim] sample:		790.0 seconds, 113.3 MB
+[runlim] sample:		800.0 seconds, 113.3 MB
+[runlim] sample:		810.0 seconds, 113.3 MB
+[runlim] sample:		820.0 seconds, 113.3 MB
+[runlim] sample:		830.0 seconds, 113.3 MB
+[runlim] sample:		840.0 seconds, 113.3 MB
+[runlim] sample:		850.0 seconds, 113.3 MB
+[runlim] sample:		860.0 seconds, 113.3 MB
+[runlim] sample:		870.0 seconds, 113.3 MB
+[runlim] sample:		880.0 seconds, 113.3 MB
+[runlim] sample:		890.0 seconds, 113.3 MB
+[runlim] sample:		900.0 seconds, 113.3 MB
+[runlim] sample:		910.0 seconds, 113.3 MB
+[runlim] sample:		920.0 seconds, 113.3 MB
+[runlim] sample:		930.0 seconds, 113.3 MB
+[runlim] sample:		940.0 seconds, 113.3 MB
+[runlim] sample:		950.0 seconds, 113.3 MB
+[runlim] sample:		960.0 seconds, 113.3 MB
+[runlim] sample:		970.0 seconds, 113.3 MB
+[runlim] sample:		980.0 seconds, 113.3 MB
+981.511169
+346
+Median time: 2.83398 s
+[runlim] end:			Tue Sep 24 03:10:15 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			982.61 seconds
+[runlim] time:			981.67 seconds
+[runlim] space:			113.7 MB
+[runlim] samples:		9817
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_8vm_rnd.txt.log
+
+--- starting: results.us-west1.pn.instance_list_hadoop_10vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west1.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:10:15 2019
+[runlim] main pid:		27856
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 135.0 MB
+[runlim] sample:		20.0 seconds, 134.8 MB
+[runlim] sample:		30.0 seconds, 140.0 MB
+[runlim] sample:		40.0 seconds, 137.8 MB
+[runlim] sample:		50.0 seconds, 139.5 MB
+[runlim] sample:		60.0 seconds, 138.8 MB
+[runlim] sample:		70.0 seconds, 140.0 MB
+[runlim] sample:		80.0 seconds, 140.0 MB
+[runlim] sample:		90.0 seconds, 140.0 MB
+[runlim] sample:		100.0 seconds, 140.0 MB
+[runlim] sample:		110.0 seconds, 139.8 MB
+[runlim] sample:		120.0 seconds, 139.8 MB
+[runlim] sample:		130.0 seconds, 137.4 MB
+[runlim] sample:		140.0 seconds, 137.1 MB
+[runlim] sample:		150.0 seconds, 137.4 MB
+[runlim] sample:		160.0 seconds, 137.4 MB
+[runlim] sample:		170.0 seconds, 137.4 MB
+[runlim] sample:		180.0 seconds, 137.4 MB
+[runlim] sample:		190.0 seconds, 136.3 MB
+[runlim] sample:		200.0 seconds, 136.5 MB
+[runlim] sample:		210.0 seconds, 139.9 MB
+[runlim] sample:		220.0 seconds, 135.2 MB
+[runlim] sample:		230.0 seconds, 136.7 MB
+[runlim] sample:		240.0 seconds, 136.9 MB
+[runlim] sample:		250.0 seconds, 139.6 MB
+[runlim] sample:		260.0 seconds, 139.3 MB
+[runlim] sample:		270.0 seconds, 135.7 MB
+[runlim] sample:		280.0 seconds, 136.2 MB
+[runlim] sample:		290.0 seconds, 136.3 MB
+[runlim] sample:		300.0 seconds, 136.3 MB
+[runlim] sample:		310.0 seconds, 125.7 MB
+[runlim] sample:		320.0 seconds, 136.0 MB
+[runlim] sample:		330.0 seconds, 136.3 MB
+[runlim] sample:		340.0 seconds, 137.8 MB
+[runlim] sample:		350.0 seconds, 137.6 MB
+[runlim] sample:		360.0 seconds, 137.6 MB
+[runlim] sample:		370.0 seconds, 137.6 MB
+[runlim] sample:		380.0 seconds, 137.8 MB
+[runlim] sample:		390.0 seconds, 135.7 MB
+[runlim] sample:		400.0 seconds, 136.2 MB
+[runlim] sample:		410.0 seconds, 136.2 MB
+[runlim] sample:		420.0 seconds, 136.2 MB
+[runlim] sample:		430.0 seconds, 138.6 MB
+[runlim] sample:		440.0 seconds, 135.1 MB
+[runlim] sample:		450.0 seconds, 136.2 MB
+[runlim] sample:		460.0 seconds, 136.2 MB
+[runlim] sample:		470.0 seconds, 136.2 MB
+[runlim] sample:		480.0 seconds, 136.2 MB
+[runlim] sample:		490.0 seconds, 136.4 MB
+[runlim] sample:		500.0 seconds, 136.4 MB
+[runlim] sample:		510.0 seconds, 136.4 MB
+[runlim] sample:		520.0 seconds, 136.4 MB
+[runlim] sample:		530.0 seconds, 136.4 MB
+[runlim] sample:		540.0 seconds, 136.4 MB
+[runlim] sample:		550.0 seconds, 136.4 MB
+[runlim] sample:		560.0 seconds, 136.4 MB
+[runlim] sample:		570.0 seconds, 136.4 MB
+[runlim] sample:		580.0 seconds, 136.4 MB
+[runlim] sample:		590.0 seconds, 136.4 MB
+[runlim] sample:		600.0 seconds, 136.4 MB
+[runlim] sample:		610.0 seconds, 136.4 MB
+[runlim] sample:		620.0 seconds, 136.4 MB
+[runlim] sample:		630.0 seconds, 136.3 MB
+[runlim] sample:		640.0 seconds, 136.3 MB
+[runlim] sample:		650.0 seconds, 136.3 MB
+[runlim] sample:		660.0 seconds, 136.3 MB
+[runlim] sample:		670.0 seconds, 136.5 MB
+[runlim] sample:		680.0 seconds, 136.3 MB
+[runlim] sample:		690.0 seconds, 136.3 MB
+[runlim] sample:		700.0 seconds, 136.5 MB
+[runlim] sample:		710.0 seconds, 136.5 MB
+[runlim] sample:		720.0 seconds, 136.5 MB
+[runlim] sample:		730.0 seconds, 136.5 MB
+[runlim] sample:		740.0 seconds, 136.5 MB
+[runlim] sample:		750.0 seconds, 136.5 MB
+[runlim] sample:		760.0 seconds, 136.5 MB
+[runlim] sample:		770.0 seconds, 136.5 MB
+[runlim] sample:		780.0 seconds, 136.5 MB
+[runlim] sample:		790.0 seconds, 136.5 MB
+[runlim] sample:		800.0 seconds, 136.5 MB
+[runlim] sample:		810.0 seconds, 136.5 MB
+[runlim] sample:		820.0 seconds, 136.5 MB
+[runlim] sample:		830.0 seconds, 136.5 MB
+[runlim] sample:		840.0 seconds, 136.5 MB
+[runlim] sample:		850.0 seconds, 136.5 MB
+[runlim] sample:		860.0 seconds, 136.5 MB
+[runlim] sample:		870.0 seconds, 136.5 MB
+[runlim] sample:		880.0 seconds, 136.5 MB
+[runlim] sample:		890.0 seconds, 136.5 MB
+[runlim] sample:		900.0 seconds, 136.5 MB
+[runlim] sample:		910.0 seconds, 136.5 MB
+[runlim] sample:		920.0 seconds, 136.5 MB
+[runlim] sample:		930.0 seconds, 136.5 MB
+[runlim] sample:		940.0 seconds, 136.5 MB
+[runlim] sample:		950.0 seconds, 136.5 MB
+[runlim] sample:		960.0 seconds, 136.5 MB
+[runlim] sample:		970.0 seconds, 136.5 MB
+[runlim] sample:		980.0 seconds, 136.5 MB
+[runlim] sample:		990.0 seconds, 136.5 MB
+993.730619
+287
+Median time: 3.46577 s
+[runlim] end:			Tue Sep 24 03:26:49 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			994.61 seconds
+[runlim] time:			993.88 seconds
+[runlim] space:			140.1 MB
+[runlim] samples:		9939
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_10vm_rnd.txt.log
+
+--- starting: results.us-west1.pn.instance_list_hadoop_12vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west1.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:26:49 2019
+[runlim] main pid:		27929
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 149.1 MB
+[runlim] sample:		20.0 seconds, 136.8 MB
+[runlim] sample:		30.0 seconds, 154.8 MB
+[runlim] sample:		40.0 seconds, 158.6 MB
+[runlim] sample:		50.0 seconds, 159.6 MB
+[runlim] sample:		60.0 seconds, 159.9 MB
+[runlim] sample:		70.0 seconds, 151.8 MB
+[runlim] sample:		80.0 seconds, 161.6 MB
+[runlim] sample:		90.0 seconds, 164.0 MB
+[runlim] sample:		100.0 seconds, 164.0 MB
+[runlim] sample:		110.0 seconds, 157.1 MB
+[runlim] sample:		120.0 seconds, 156.9 MB
+[runlim] sample:		130.0 seconds, 157.7 MB
+[runlim] sample:		140.0 seconds, 162.5 MB
+[runlim] sample:		150.0 seconds, 162.3 MB
+[runlim] sample:		160.0 seconds, 160.7 MB
+[runlim] sample:		170.0 seconds, 162.6 MB
+[runlim] sample:		180.0 seconds, 162.3 MB
+[runlim] sample:		190.0 seconds, 162.2 MB
+[runlim] sample:		200.0 seconds, 162.8 MB
+[runlim] sample:		210.0 seconds, 162.8 MB
+[runlim] sample:		220.0 seconds, 162.5 MB
+[runlim] sample:		230.0 seconds, 162.4 MB
+[runlim] sample:		240.0 seconds, 150.3 MB
+[runlim] sample:		250.0 seconds, 155.8 MB
+[runlim] sample:		260.0 seconds, 155.9 MB
+[runlim] sample:		270.0 seconds, 156.3 MB
+[runlim] sample:		280.0 seconds, 156.3 MB
+[runlim] sample:		290.0 seconds, 156.3 MB
+[runlim] sample:		300.0 seconds, 156.2 MB
+[runlim] sample:		310.0 seconds, 158.9 MB
+[runlim] sample:		320.0 seconds, 159.3 MB
+[runlim] sample:		330.0 seconds, 159.2 MB
+[runlim] sample:		340.0 seconds, 159.3 MB
+[runlim] sample:		350.0 seconds, 159.3 MB
+[runlim] sample:		360.0 seconds, 159.2 MB
+[runlim] sample:		370.0 seconds, 159.5 MB
+[runlim] sample:		380.0 seconds, 154.8 MB
+[runlim] sample:		390.0 seconds, 155.3 MB
+[runlim] sample:		400.0 seconds, 157.3 MB
+[runlim] sample:		410.0 seconds, 154.7 MB
+[runlim] sample:		420.0 seconds, 155.9 MB
+[runlim] sample:		430.0 seconds, 156.6 MB
+[runlim] sample:		440.0 seconds, 156.5 MB
+[runlim] sample:		450.0 seconds, 156.5 MB
+[runlim] sample:		460.0 seconds, 156.4 MB
+[runlim] sample:		470.0 seconds, 156.7 MB
+[runlim] sample:		480.0 seconds, 157.4 MB
+[runlim] sample:		490.0 seconds, 157.3 MB
+[runlim] sample:		500.0 seconds, 157.3 MB
+[runlim] sample:		510.0 seconds, 157.1 MB
+[runlim] sample:		520.0 seconds, 157.4 MB
+[runlim] sample:		530.0 seconds, 157.4 MB
+[runlim] sample:		540.0 seconds, 157.3 MB
+[runlim] sample:		550.0 seconds, 153.8 MB
+[runlim] sample:		560.0 seconds, 154.4 MB
+[runlim] sample:		570.0 seconds, 155.0 MB
+[runlim] sample:		580.0 seconds, 155.4 MB
+[runlim] sample:		590.0 seconds, 151.9 MB
+[runlim] sample:		600.0 seconds, 155.1 MB
+[runlim] sample:		610.0 seconds, 155.0 MB
+[runlim] sample:		620.0 seconds, 155.0 MB
+[runlim] sample:		630.0 seconds, 155.2 MB
+[runlim] sample:		640.0 seconds, 155.2 MB
+[runlim] sample:		650.0 seconds, 155.2 MB
+[runlim] sample:		660.0 seconds, 155.1 MB
+[runlim] sample:		670.0 seconds, 155.2 MB
+[runlim] sample:		680.0 seconds, 155.2 MB
+[runlim] sample:		690.0 seconds, 155.3 MB
+[runlim] sample:		700.0 seconds, 155.3 MB
+[runlim] sample:		710.0 seconds, 155.0 MB
+[runlim] sample:		720.0 seconds, 142.2 MB
+[runlim] sample:		730.0 seconds, 155.1 MB
+[runlim] sample:		740.0 seconds, 155.1 MB
+[runlim] sample:		750.0 seconds, 155.3 MB
+[runlim] sample:		760.0 seconds, 155.3 MB
+[runlim] sample:		770.0 seconds, 155.3 MB
+[runlim] sample:		780.0 seconds, 155.3 MB
+[runlim] sample:		790.0 seconds, 155.3 MB
+[runlim] sample:		800.0 seconds, 155.5 MB
+[runlim] sample:		810.0 seconds, 155.0 MB
+[runlim] sample:		820.0 seconds, 154.3 MB
+[runlim] sample:		830.0 seconds, 154.7 MB
+[runlim] sample:		840.0 seconds, 155.3 MB
+[runlim] sample:		850.0 seconds, 155.5 MB
+[runlim] sample:		860.0 seconds, 154.4 MB
+[runlim] sample:		870.0 seconds, 141.6 MB
+[runlim] sample:		880.0 seconds, 155.2 MB
+[runlim] sample:		890.0 seconds, 155.2 MB
+[runlim] sample:		900.0 seconds, 142.4 MB
+[runlim] sample:		910.0 seconds, 154.0 MB
+[runlim] sample:		920.0 seconds, 141.2 MB
+[runlim] sample:		930.0 seconds, 141.2 MB
+[runlim] sample:		940.0 seconds, 141.0 MB
+[runlim] sample:		950.0 seconds, 141.2 MB
+[runlim] sample:		960.0 seconds, 154.2 MB
+[runlim] sample:		970.0 seconds, 154.5 MB
+[runlim] sample:		980.0 seconds, 141.1 MB
+[runlim] sample:		990.0 seconds, 140.5 MB
+[runlim] sample:		1000.0 seconds, 154.1 MB
+[runlim] sample:		1010.0 seconds, 140.5 MB
+[runlim] sample:		1020.0 seconds, 137.5 MB
+[runlim] sample:		1030.0 seconds, 138.7 MB
+[runlim] sample:		1040.0 seconds, 154.3 MB
+[runlim] sample:		1050.0 seconds, 154.3 MB
+[runlim] sample:		1060.0 seconds, 137.9 MB
+[runlim] sample:		1070.0 seconds, 153.6 MB
+[runlim] sample:		1080.0 seconds, 154.3 MB
+1082.618838
+254
+Median time: 4.25023 s
+[runlim] end:			Tue Sep 24 03:44:52 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			1083.52 seconds
+[runlim] time:			1082.87 seconds
+[runlim] space:			164.7 MB
+[runlim] samples:		10829
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_12vm_rnd.txt.log
+
+--- starting: results.us-west1.pn.instance_list_hadoop_14vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west1.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:44:52 2019
+[runlim] main pid:		27945
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 167.1 MB
+11.390937
+1
+Median time: 5.01422 s
+[runlim] end:			Tue Sep 24 03:45:04 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			12.19 seconds
+[runlim] time:			11.59 seconds
+[runlim] space:			172.5 MB
+[runlim] samples:		116
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west1.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-west1.pn.instance_list_hadoop_14vm_rnd.txt.log
+
+--- starting: results.us-west2.pn.instance_list_hadoop_4vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west2.pn.instance_list_hadoop_4vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:45:04 2019
+[runlim] main pid:		27948
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 30.6 MB
+[runlim] sample:		20.0 seconds, 31.2 MB
+[runlim] sample:		30.0 seconds, 31.1 MB
+34.095192
+112
+Median time: 0.303293 s
+[runlim] end:			Tue Sep 24 03:45:38 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			34.40 seconds
+[runlim] time:			34.20 seconds
+[runlim] space:			32.6 MB
+[runlim] samples:		342
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_4vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_4vm_rnd.txt.log
+
+--- starting: results.us-west2.pn.instance_list_hadoop_6vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west2.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:45:38 2019
+[runlim] main pid:		27951
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 38.0 MB
+[runlim] sample:		20.0 seconds, 36.9 MB
+[runlim] sample:		30.0 seconds, 36.8 MB
+[runlim] sample:		40.0 seconds, 35.8 MB
+43.355302
+97
+Median time: 0.445339 s
+[runlim] end:			Tue Sep 24 03:46:21 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			43.88 seconds
+[runlim] time:			43.39 seconds
+[runlim] space:			38.0 MB
+[runlim] samples:		434
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_6vm_rnd.txt.log
+
+--- starting: results.us-west2.pn.instance_list_hadoop_8vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west2.pn.instance_list_hadoop_8vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:46:21 2019
+[runlim] main pid:		27954
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 42.1 MB
+[runlim] sample:		20.0 seconds, 41.6 MB
+[runlim] sample:		30.0 seconds, 39.6 MB
+[runlim] sample:		40.0 seconds, 41.3 MB
+[runlim] sample:		50.0 seconds, 41.1 MB
+50.3485
+83
+Median time: 0.601149 s
+[runlim] end:			Tue Sep 24 03:47:12 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			51.36 seconds
+[runlim] time:			50.39 seconds
+[runlim] space:			42.4 MB
+[runlim] samples:		504
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_8vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_8vm_rnd.txt.log
+
+--- starting: results.us-west2.pn.instance_list_hadoop_10vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west2.pn.instance_list_hadoop_10vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:47:12 2019
+[runlim] main pid:		27957
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 48.1 MB
+[runlim] sample:		20.0 seconds, 47.8 MB
+[runlim] sample:		30.0 seconds, 47.4 MB
+[runlim] sample:		40.0 seconds, 47.4 MB
+[runlim] sample:		50.0 seconds, 45.0 MB
+49.946367
+66
+Median time: 0.748899 s
+[runlim] end:			Tue Sep 24 03:48:02 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			50.44 seconds
+[runlim] time:			49.99 seconds
+[runlim] space:			48.4 MB
+[runlim] samples:		500
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_10vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_10vm_rnd.txt.log
+
+--- starting: results.us-west2.pn.instance_list_hadoop_12vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west2.pn.instance_list_hadoop_12vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:48:02 2019
+[runlim] main pid:		27960
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 53.2 MB
+[runlim] sample:		20.0 seconds, 50.8 MB
+[runlim] sample:		30.0 seconds, 52.8 MB
+[runlim] sample:		40.0 seconds, 51.8 MB
+[runlim] sample:		50.0 seconds, 49.3 MB
+54.748244
+59
+Median time: 0.918387 s
+[runlim] end:			Tue Sep 24 03:48:57 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			55.33 seconds
+[runlim] time:			54.80 seconds
+[runlim] space:			53.7 MB
+[runlim] samples:		548
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_12vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_12vm_rnd.txt.log
+
+--- starting: results.us-west2.pn.instance_list_hadoop_14vm_rnd.txt.log
+--- started: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-west2.pn.instance_list_hadoop_14vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 03:48:57 2019
+[runlim] main pid:		27963
+Academic license - for non-commercial use only
+2.136548
+1
+Median time: 1.03994 s
+[runlim] end:			Tue Sep 24 03:48:59 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			2.60 seconds
+[runlim] time:			2.19 seconds
+[runlim] space:			55.3 MB
+[runlim] samples:		22
++++ completed: runlim -t 3600 -s 80000 python3.6 ./netsolver-gurobi-hadoop-mod.py ../../../instances/hadoop/hadoop_extra/us-west2.pn ../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt True False timelogs/results.us-west2.pn.instance_list_hadoop_14vm_rnd.txt.log
+
++++ all done; bye +++

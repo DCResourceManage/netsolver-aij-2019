@@ -1,0 +1,39 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-softaffinity.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extensions/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/hadoop_extensions/hadoop_10_1bw.vn
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/softaffinity/results.softaffinity.us-west2.pn.hadoop_10_1bw.vn.log
+[runlim] start:			Sun Sep 22 23:52:21 2019
+[runlim] main pid:		47669
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 48.3 MB
+[runlim] sample:		20.0 seconds, 65.1 MB
+[runlim] sample:		30.0 seconds, 59.6 MB
+[runlim] sample:		40.0 seconds, 63.1 MB
+[runlim] sample:		50.0 seconds, 65.4 MB
+[runlim] sample:		60.0 seconds, 49.8 MB
+[runlim] sample:		70.0 seconds, 56.4 MB
+[runlim] sample:		80.0 seconds, 49.2 MB
+[runlim] sample:		90.0 seconds, 56.7 MB
+[runlim] sample:		100.0 seconds, 57.3 MB
+[runlim] sample:		110.0 seconds, 50.5 MB
+[runlim] sample:		120.0 seconds, 54.3 MB
+[runlim] sample:		130.0 seconds, 52.5 MB
+[runlim] sample:		140.0 seconds, 49.3 MB
+144.811746
+224
+Median time: 0.577198 s
+[runlim] end:			Sun Sep 22 23:54:46 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			145.91 seconds
+[runlim] time:			144.89 seconds
+[runlim] space:			71.7 MB
+[runlim] samples:		1449

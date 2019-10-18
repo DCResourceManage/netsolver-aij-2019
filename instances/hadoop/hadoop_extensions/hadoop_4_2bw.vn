@@ -1,0 +1,6 @@
+{
+"VN" : [["master", "slave1", 2], ["master", "slave2", 2], ["master", "slave3", 2]],
+"VMs" : {"master": [1,1,1], "slave1": [1,1,1], "slave2": [1,1,1], "slave3": [1,1,1]},
+"antiaffinity":[["slave1", "slave2", "slave3"]],
+"affinity":[["master", "slave1","slave2","slave3"]]
+}

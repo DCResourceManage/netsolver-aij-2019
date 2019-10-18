@@ -1,0 +1,4 @@
+{
+"VN" : [["master", "slave1", 2000], ["master", "slave2", 2000], ["master", "slave3", 2000]],
+"VMs" : {"master": [4, 8, 200], "slave1": [4, 8, 200], "slave2": [4, 8, 200], "slave3": [4, 8, 200]}
+}

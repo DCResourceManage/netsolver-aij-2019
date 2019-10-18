@@ -1,0 +1,5845 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		./vdcalloc_print_final_pn
+[runlim] argv[1]:		../../../instances/fattree-bcube/instance_list_9vm_rnd.txt
+[runlim] argv[2]:		0
+[runlim] argv[3]:		8
+[runlim] argv[4]:		2
+[runlim] argv[5]:		10
+[runlim] argv[6]:		16
+[runlim] argv[7]:		timelogs/results.BCube_n8_k2_bw10_cpu16.pn.instance_list_9vm_rnd.txt.log
+[runlim] start:			Mon Sep 30 00:51:31 2019
+[runlim] main pid:		48118
+Running Secondnet on ../../../instances/fattree-bcube/instance_list_9vm_rnd.txt
+Read 5120 instances
+Running Secondnet on BCube, with n=8, k=2, bandwidth=10, #cpus=16
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+1: 9
+VDC id:1, size 9
+yes
+0.99922
+0.99922
+30696.00000 15348.00000
+Memory 0.00129
+102
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+2: 9
+VDC id:2, size 9
+yes
+0.99863
+0.99863
+30678.00000 15339.00000
+Memory 0.00235
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+3: 9
+VDC id:3, size 9
+yes
+0.99779
+0.99779
+30652.00000 15326.00000
+Memory 0.00364
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+4: 9
+VDC id:4, size 9
+yes
+0.99733
+0.99733
+30638.00000 15319.00000
+Memory 0.00462
+57
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+5: 9
+VDC id:5, size 9
+yes
+0.99648
+0.99648
+30612.00000 15306.00000
+Memory 0.00591
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+6: 9
+VDC id:6, size 9
+yes
+0.99603
+0.99603
+30598.00000 15299.00000
+Memory 0.00690
+55
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+7: 9
+VDC id:7, size 9
+yes
+0.99544
+0.99544
+30580.00000 15290.00000
+Memory 0.00796
+59
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+8: 9
+VDC id:8, size 9
+yes
+0.99460
+0.99460
+30554.00000 15277.00000
+Memory 0.00925
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+9: 9
+VDC id:9, size 9
+yes
+0.99375
+0.99375
+30528.00000 15264.00000
+Memory 0.01049
+61
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+10: 9
+VDC id:10, size 9
+yes
+0.99316
+0.99316
+30510.00000 15255.00000
+Memory 0.01155
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+11: 9
+VDC id:11, size 9
+yes
+0.99238
+0.99238
+30486.00000 15243.00000
+Memory 0.01284
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+12: 9
+VDC id:12, size 9
+yes
+0.99173
+0.99173
+30466.00000 15233.00000
+Memory 0.01389
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+13: 9
+VDC id:13, size 9
+yes
+0.99069
+0.99069
+30434.00000 15217.00000
+Memory 0.01527
+67
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+14: 9
+VDC id:14, size 9
+yes
+0.98932
+0.98932
+30392.00000 15196.00000
+Memory 0.01677
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+15: 9
+VDC id:15, size 9
+yes
+0.98874
+0.98874
+30374.00000 15187.00000
+Memory 0.01786
+61
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+16: 9
+VDC id:16, size 9
+yes
+0.98724
+0.98724
+30328.00000 15164.00000
+Memory 0.01936
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+17: 9
+VDC id:17, size 9
+yes
+0.98613
+0.98613
+30294.00000 15147.00000
+Memory 0.02074
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+18: 9
+VDC id:18, size 9
+yes
+0.98503
+0.98503
+30260.00000 15130.00000
+Memory 0.02208
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+19: 9
+VDC id:19, size 9
+yes
+0.98385
+0.98385
+30224.00000 15112.00000
+Memory 0.02346
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+20: 9
+VDC id:20, size 9
+yes
+0.98281
+0.98281
+30192.00000 15096.00000
+Memory 0.02484
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+21: 9
+VDC id:21, size 9
+yes
+0.98158
+0.98158
+30154.00000 15077.00000
+Memory 0.02628
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+22: 9
+VDC id:22, size 9
+yes
+0.98047
+0.98047
+30120.00000 15060.00000
+Memory 0.02763
+67
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+23: 9
+VDC id:23, size 9
+yes
+0.97956
+0.97956
+30092.00000 15046.00000
+Memory 0.02895
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+24: 9
+VDC id:24, size 9
+yes
+0.97813
+0.97813
+30048.00000 15024.00000
+Memory 0.03046
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+25: 9
+VDC id:25, size 9
+yes
+0.97754
+0.97754
+30030.00000 15015.00000
+Memory 0.03155
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+26: 9
+VDC id:26, size 9
+yes
+0.97669
+0.97669
+30004.00000 15002.00000
+Memory 0.03287
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+27: 9
+VDC id:27, size 9
+yes
+0.97565
+0.97565
+29972.00000 14986.00000
+Memory 0.03414
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+28: 9
+VDC id:28, size 9
+yes
+0.97467
+0.97467
+29942.00000 14971.00000
+Memory 0.03549
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+29: 9
+VDC id:29, size 9
+yes
+0.97337
+0.97337
+29902.00000 14951.00000
+Memory 0.03690
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+30: 9
+VDC id:30, size 9
+yes
+0.97220
+0.97220
+29866.00000 14933.00000
+Memory 0.03825
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+31: 9
+VDC id:31, size 9
+yes
+0.97155
+0.97155
+29846.00000 14923.00000
+Memory 0.03942
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+32: 9
+VDC id:32, size 9
+yes
+0.97090
+0.97090
+29826.00000 14913.00000
+Memory 0.04047
+61
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+33: 9
+VDC id:33, size 9
+yes
+0.97005
+0.97005
+29800.00000 14900.00000
+Memory 0.04165
+67
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+34: 9
+VDC id:34, size 9
+yes
+0.96947
+0.96947
+29782.00000 14891.00000
+Memory 0.04274
+61
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+35: 9
+VDC id:35, size 9
+yes
+0.96888
+0.96888
+29764.00000 14882.00000
+Memory 0.04380
+63
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+36: 9
+VDC id:36, size 9
+yes
+0.96810
+0.96810
+29740.00000 14870.00000
+Memory 0.04501
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+37: 9
+VDC id:37, size 9
+yes
+0.96745
+0.96745
+29720.00000 14860.00000
+Memory 0.04613
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+38: 9
+VDC id:38, size 9
+yes
+0.96647
+0.96647
+29690.00000 14845.00000
+Memory 0.04749
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+39: 9
+VDC id:39, size 9
+yes
+0.96536
+0.96536
+29656.00000 14828.00000
+Memory 0.04881
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+40: 9
+VDC id:40, size 9
+yes
+0.96426
+0.96426
+29622.00000 14811.00000
+Memory 0.05022
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+41: 9
+VDC id:41, size 9
+yes
+0.96328
+0.96328
+29592.00000 14796.00000
+Memory 0.05152
+84
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+42: 9
+VDC id:42, size 9
+yes
+0.96237
+0.96237
+29564.00000 14782.00000
+Memory 0.05283
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+43: 9
+VDC id:43, size 9
+yes
+0.96172
+0.96172
+29544.00000 14772.00000
+Memory 0.05387
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+44: 9
+VDC id:44, size 9
+yes
+0.96081
+0.96081
+29516.00000 14758.00000
+Memory 0.05519
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+45: 9
+VDC id:45, size 9
+yes
+0.95957
+0.95957
+29478.00000 14739.00000
+Memory 0.05656
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+46: 9
+VDC id:46, size 9
+yes
+0.95885
+0.95885
+29456.00000 14728.00000
+Memory 0.05775
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+47: 9
+VDC id:47, size 9
+yes
+0.95794
+0.95794
+29428.00000 14714.00000
+Memory 0.05910
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+48: 9
+VDC id:48, size 9
+yes
+0.95742
+0.95742
+29412.00000 14706.00000
+Memory 0.06017
+60
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+49: 9
+VDC id:49, size 9
+yes
+0.95566
+0.95566
+29358.00000 14679.00000
+Memory 0.06179
+95
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+50: 9
+VDC id:50, size 9
+yes
+0.95482
+0.95482
+29332.00000 14666.00000
+Memory 0.06311
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+51: 9
+VDC id:51, size 9
+yes
+0.95417
+0.95417
+29312.00000 14656.00000
+Memory 0.06423
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+52: 9
+VDC id:52, size 9
+yes
+0.95280
+0.95280
+29270.00000 14635.00000
+Memory 0.06564
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+53: 9
+VDC id:53, size 9
+yes
+0.95215
+0.95215
+29250.00000 14625.00000
+Memory 0.06672
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+54: 9
+VDC id:54, size 9
+yes
+0.95091
+0.95091
+29212.00000 14606.00000
+Memory 0.06816
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+55: 9
+VDC id:55, size 9
+yes
+0.95013
+0.95013
+29188.00000 14594.00000
+Memory 0.06927
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+56: 9
+VDC id:56, size 9
+yes
+0.94909
+0.94909
+29156.00000 14578.00000
+Memory 0.07065
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+57: 9
+VDC id:57, size 9
+yes
+0.94805
+0.94805
+29124.00000 14562.00000
+Memory 0.07198
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+58: 9
+VDC id:58, size 9
+yes
+0.94714
+0.94714
+29096.00000 14548.00000
+Memory 0.07333
+86
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+59: 9
+VDC id:59, size 9
+yes
+0.94655
+0.94655
+29078.00000 14539.00000
+Memory 0.07438
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+60: 9
+VDC id:60, size 9
+yes
+0.94544
+0.94544
+29044.00000 14522.00000
+Memory 0.07574
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+61: 9
+VDC id:61, size 9
+yes
+0.94440
+0.94440
+29012.00000 14506.00000
+Memory 0.07713
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+62: 9
+VDC id:62, size 9
+yes
+0.94362
+0.94362
+28988.00000 14494.00000
+Memory 0.07823
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+63: 9
+VDC id:63, size 9
+yes
+0.94284
+0.94284
+28964.00000 14482.00000
+Memory 0.07938
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+64: 9
+VDC id:64, size 9
+yes
+0.94212
+0.94212
+28942.00000 14471.00000
+Memory 0.08046
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+65: 9
+VDC id:65, size 9
+yes
+0.94121
+0.94121
+28914.00000 14457.00000
+Memory 0.08178
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+66: 9
+VDC id:66, size 9
+yes
+0.94023
+0.94023
+28884.00000 14442.00000
+Memory 0.08308
+86
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+67: 9
+VDC id:67, size 9
+yes
+0.93906
+0.93906
+28848.00000 14424.00000
+Memory 0.08453
+84
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+68: 9
+VDC id:68, size 9
+yes
+0.93776
+0.93776
+28808.00000 14404.00000
+Memory 0.08600
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+69: 9
+VDC id:69, size 9
+yes
+0.93711
+0.93711
+28788.00000 14394.00000
+Memory 0.08712
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+70: 9
+VDC id:70, size 9
+yes
+0.93600
+0.93600
+28754.00000 14377.00000
+Memory 0.08856
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+71: 9
+VDC id:71, size 9
+yes
+0.93483
+0.93483
+28718.00000 14359.00000
+Memory 0.08994
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+72: 9
+VDC id:72, size 9
+yes
+0.93366
+0.93366
+28682.00000 14341.00000
+Memory 0.09132
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+73: 9
+VDC id:73, size 9
+yes
+0.93223
+0.93223
+28638.00000 14319.00000
+Memory 0.09286
+90
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+74: 9
+VDC id:74, size 9
+yes
+0.93066
+0.93066
+28590.00000 14295.00000
+Memory 0.09433
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+75: 9
+VDC id:75, size 9
+yes
+0.92956
+0.92956
+28556.00000 14278.00000
+Memory 0.09566
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+76: 9
+VDC id:76, size 9
+yes
+0.92819
+0.92819
+28514.00000 14257.00000
+Memory 0.09706
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+77: 9
+VDC id:77, size 9
+yes
+0.92741
+0.92741
+28490.00000 14245.00000
+Memory 0.09821
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+78: 9
+VDC id:78, size 9
+yes
+0.92650
+0.92650
+28462.00000 14231.00000
+Memory 0.09949
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+79: 9
+VDC id:79, size 9
+yes
+0.92559
+0.92559
+28434.00000 14217.00000
+Memory 0.10070
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+80: 9
+VDC id:80, size 9
+yes
+0.92448
+0.92448
+28400.00000 14200.00000
+Memory 0.10211
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+81: 9
+VDC id:81, size 9
+yes
+0.92331
+0.92331
+28364.00000 14182.00000
+Memory 0.10355
+87
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+82: 9
+VDC id:82, size 9
+yes
+0.92220
+0.92220
+28330.00000 14165.00000
+Memory 0.10497
+87
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+83: 9
+VDC id:83, size 9
+yes
+0.92142
+0.92142
+28306.00000 14153.00000
+Memory 0.10612
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+84: 9
+VDC id:84, size 9
+yes
+0.91979
+0.91979
+28256.00000 14128.00000
+Memory 0.10771
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+85: 9
+VDC id:85, size 9
+yes
+0.91862
+0.91862
+28220.00000 14110.00000
+Memory 0.10915
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+86: 9
+VDC id:86, size 9
+yes
+0.91745
+0.91745
+28184.00000 14092.00000
+Memory 0.11060
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+87: 9
+VDC id:87, size 9
+yes
+0.91706
+0.91706
+28172.00000 14086.00000
+Memory 0.11155
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+88: 9
+VDC id:88, size 9
+yes
+0.91621
+0.91621
+28146.00000 14073.00000
+Memory 0.11273
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+89: 9
+VDC id:89, size 9
+yes
+0.91497
+0.91497
+28108.00000 14054.00000
+Memory 0.11410
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+90: 9
+VDC id:90, size 9
+yes
+0.91387
+0.91387
+28074.00000 14037.00000
+Memory 0.11551
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+91: 9
+VDC id:91, size 9
+yes
+0.91250
+0.91250
+28032.00000 14016.00000
+Memory 0.11695
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+92: 9
+VDC id:92, size 9
+yes
+0.91165
+0.91165
+28006.00000 14003.00000
+Memory 0.11813
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+93: 9
+VDC id:93, size 9
+yes
+0.91035
+0.91035
+27966.00000 13983.00000
+Memory 0.11961
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+94: 9
+VDC id:94, size 9
+yes
+0.90944
+0.90944
+27938.00000 13969.00000
+Memory 0.12096
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+95: 9
+VDC id:95, size 9
+yes
+0.90859
+0.90859
+27912.00000 13956.00000
+Memory 0.12214
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+96: 9
+VDC id:96, size 9
+yes
+0.90781
+0.90781
+27888.00000 13944.00000
+Memory 0.12337
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+97: 9
+VDC id:97, size 9
+yes
+0.90671
+0.90671
+27854.00000 13927.00000
+Memory 0.12473
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+98: 9
+VDC id:98, size 9
+yes
+0.90618
+0.90618
+27838.00000 13919.00000
+Memory 0.12575
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+99: 9
+VDC id:99, size 9
+yes
+0.90508
+0.90508
+27804.00000 13902.00000
+Memory 0.12705
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+100: 9
+VDC id:100, size 9
+yes
+0.90391
+0.90391
+27768.00000 13884.00000
+Memory 0.12849
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+101: 9
+VDC id:101, size 9
+yes
+0.90319
+0.90319
+27746.00000 13873.00000
+Memory 0.12957
+64
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+102: 9
+VDC id:102, size 9
+yes
+0.90247
+0.90247
+27724.00000 13862.00000
+Memory 0.13072
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+103: 9
+VDC id:103, size 9
+yes
+0.90111
+0.90111
+27682.00000 13841.00000
+Memory 0.13223
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+104: 9
+VDC id:104, size 9
+yes
+0.90000
+0.90000
+27648.00000 13824.00000
+Memory 0.13356
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+105: 9
+VDC id:105, size 9
+yes
+0.89928
+0.89928
+27626.00000 13813.00000
+Memory 0.13464
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+106: 9
+VDC id:106, size 9
+yes
+0.89805
+0.89805
+27588.00000 13794.00000
+Memory 0.13608
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+107: 9
+VDC id:107, size 9
+yes
+0.89733
+0.89733
+27566.00000 13783.00000
+Memory 0.13715
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+108: 9
+VDC id:108, size 9
+yes
+0.89603
+0.89603
+27526.00000 13763.00000
+Memory 0.13863
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+109: 9
+VDC id:109, size 9
+yes
+0.89492
+0.89492
+27492.00000 13746.00000
+Memory 0.14004
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+110: 9
+VDC id:110, size 9
+yes
+0.89382
+0.89382
+27458.00000 13729.00000
+Memory 0.14145
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+111: 9
+VDC id:111, size 9
+yes
+0.89264
+0.89264
+27422.00000 13711.00000
+Memory 0.14289
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+112: 9
+VDC id:112, size 9
+yes
+0.89141
+0.89141
+27384.00000 13692.00000
+Memory 0.14433
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+113: 9
+VDC id:113, size 9
+yes
+0.88965
+0.88965
+27330.00000 13665.00000
+Memory 0.14596
+85
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+114: 9
+VDC id:114, size 9
+yes
+0.88913
+0.88913
+27314.00000 13657.00000
+Memory 0.14697
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+115: 9
+VDC id:115, size 9
+yes
+0.88802
+0.88802
+27280.00000 13640.00000
+Memory 0.14828
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+116: 9
+VDC id:116, size 9
+yes
+0.88620
+0.88620
+27224.00000 13612.00000
+Memory 0.14993
+85
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+117: 9
+VDC id:117, size 9
+yes
+0.88535
+0.88535
+27198.00000 13599.00000
+Memory 0.15112
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+118: 9
+VDC id:118, size 9
+yes
+0.88444
+0.88444
+27170.00000 13585.00000
+Memory 0.15237
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+119: 9
+VDC id:119, size 9
+yes
+0.88314
+0.88314
+27130.00000 13565.00000
+Memory 0.15385
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+120: 9
+VDC id:120, size 9
+yes
+0.88268
+0.88268
+27116.00000 13558.00000
+Memory 0.15483
+63
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+121: 9
+VDC id:121, size 9
+yes
+0.88125
+0.88125
+27072.00000 13536.00000
+Memory 0.15626
+86
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+122: 9
+VDC id:122, size 9
+yes
+0.88008
+0.88008
+27036.00000 13518.00000
+Memory 0.15759
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+123: 9
+VDC id:123, size 9
+yes
+0.87923
+0.87923
+27010.00000 13505.00000
+Memory 0.15878
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+124: 9
+VDC id:124, size 9
+yes
+0.87786
+0.87786
+26968.00000 13484.00000
+Memory 0.16028
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+125: 9
+VDC id:125, size 9
+yes
+0.87702
+0.87702
+26942.00000 13471.00000
+Memory 0.16154
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+126: 9
+VDC id:126, size 9
+yes
+0.87617
+0.87617
+26916.00000 13458.00000
+Memory 0.16272
+67
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+127: 9
+VDC id:127, size 9
+yes
+0.87480
+0.87480
+26874.00000 13437.00000
+Memory 0.16412
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+128: 9
+VDC id:128, size 9
+yes
+0.87370
+0.87370
+26840.00000 13420.00000
+Memory 0.16542
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+129: 9
+VDC id:129, size 9
+yes
+0.87246
+0.87246
+26802.00000 13401.00000
+Memory 0.16676
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+130: 9
+VDC id:130, size 9
+yes
+0.87161
+0.87161
+26776.00000 13388.00000
+Memory 0.16794
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+131: 9
+VDC id:131, size 9
+yes
+0.87096
+0.87096
+26756.00000 13378.00000
+Memory 0.16906
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+132: 9
+VDC id:132, size 9
+yes
+0.86960
+0.86960
+26714.00000 13357.00000
+Memory 0.17056
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+133: 9
+VDC id:133, size 9
+yes
+0.86784
+0.86784
+26660.00000 13330.00000
+Memory 0.17219
+85
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+134: 9
+VDC id:134, size 9
+yes
+0.86693
+0.86693
+26632.00000 13316.00000
+Memory 0.17345
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+135: 9
+VDC id:135, size 9
+yes
+0.86576
+0.86576
+26596.00000 13298.00000
+Memory 0.17489
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+136: 9
+VDC id:136, size 9
+yes
+0.86393
+0.86393
+26540.00000 13270.00000
+Memory 0.17654
+94
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+137: 9
+VDC id:137, size 9
+yes
+0.86250
+0.86250
+26496.00000 13248.00000
+Memory 0.17799
+87
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+138: 9
+VDC id:138, size 9
+yes
+0.86068
+0.86068
+26440.00000 13220.00000
+Memory 0.17964
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+139: 9
+VDC id:139, size 9
+yes
+0.85990
+0.85990
+26416.00000 13208.00000
+Memory 0.18079
+67
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+140: 9
+VDC id:140, size 9
+yes
+0.85866
+0.85866
+26378.00000 13189.00000
+Memory 0.18224
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+141: 9
+VDC id:141, size 9
+yes
+0.85742
+0.85742
+26340.00000 13170.00000
+Memory 0.18371
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+142: 9
+VDC id:142, size 9
+yes
+0.85618
+0.85618
+26302.00000 13151.00000
+Memory 0.18515
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+143: 9
+VDC id:143, size 9
+yes
+0.85495
+0.85495
+26264.00000 13132.00000
+Memory 0.18662
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+144: 9
+VDC id:144, size 9
+yes
+0.85352
+0.85352
+26220.00000 13110.00000
+Memory 0.18805
+87
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+145: 9
+VDC id:145, size 9
+yes
+0.85254
+0.85254
+26190.00000 13095.00000
+Memory 0.18934
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+146: 9
+VDC id:146, size 9
+yes
+0.85182
+0.85182
+26168.00000 13084.00000
+Memory 0.19046
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+147: 9
+VDC id:147, size 9
+yes
+0.85111
+0.85111
+26146.00000 13073.00000
+Memory 0.19161
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+148: 9
+VDC id:148, size 9
+yes
+0.84961
+0.84961
+26100.00000 13050.00000
+Memory 0.19308
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+149: 9
+VDC id:149, size 9
+yes
+0.84798
+0.84798
+26050.00000 13025.00000
+Memory 0.19465
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+150: 9
+VDC id:150, size 9
+yes
+0.84668
+0.84668
+26010.00000 13005.00000
+Memory 0.19612
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+151: 9
+VDC id:151, size 9
+yes
+0.84544
+0.84544
+25972.00000 12986.00000
+Memory 0.19756
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+152: 9
+VDC id:152, size 9
+yes
+0.84421
+0.84421
+25934.00000 12967.00000
+Memory 0.19901
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+153: 9
+VDC id:153, size 9
+yes
+0.84355
+0.84355
+25914.00000 12957.00000
+Memory 0.20013
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+154: 9
+VDC id:154, size 9
+yes
+0.84245
+0.84245
+25880.00000 12940.00000
+Memory 0.20146
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+155: 9
+VDC id:155, size 9
+yes
+0.84173
+0.84173
+25858.00000 12929.00000
+Memory 0.20266
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+156: 9
+VDC id:156, size 9
+yes
+0.84062
+0.84062
+25824.00000 12912.00000
+Memory 0.20407
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+157: 9
+VDC id:157, size 9
+yes
+0.83945
+0.83945
+25788.00000 12894.00000
+Memory 0.20548
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+158: 9
+VDC id:158, size 9
+yes
+0.83809
+0.83809
+25746.00000 12873.00000
+Memory 0.20692
+89
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+159: 9
+VDC id:159, size 9
+yes
+0.83698
+0.83698
+25712.00000 12856.00000
+Memory 0.20834
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+160: 9
+VDC id:160, size 9
+yes
+0.83587
+0.83587
+25678.00000 12839.00000
+Memory 0.20978
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+161: 9
+VDC id:161, size 9
+yes
+0.83490
+0.83490
+25648.00000 12824.00000
+Memory 0.21113
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+162: 9
+VDC id:162, size 9
+yes
+0.83405
+0.83405
+25622.00000 12811.00000
+Memory 0.21231
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+163: 9
+VDC id:163, size 9
+yes
+0.83268
+0.83268
+25580.00000 12790.00000
+Memory 0.21371
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+164: 9
+VDC id:164, size 9
+yes
+0.83151
+0.83151
+25544.00000 12772.00000
+Memory 0.21507
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+165: 9
+VDC id:165, size 9
+yes
+0.82995
+0.82995
+25496.00000 12748.00000
+Memory 0.21655
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+166: 9
+VDC id:166, size 9
+yes
+0.82845
+0.82845
+25450.00000 12725.00000
+Memory 0.21808
+93
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+167: 9
+VDC id:167, size 9
+yes
+0.82747
+0.82747
+25420.00000 12710.00000
+Memory 0.21935
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+168: 9
+VDC id:168, size 9
+yes
+0.82604
+0.82604
+25376.00000 12688.00000
+Memory 0.22078
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+169: 9
+VDC id:169, size 9
+yes
+0.82500
+0.82500
+25344.00000 12672.00000
+Memory 0.22219
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+170: 9
+VDC id:170, size 9
+yes
+0.82370
+0.82370
+25304.00000 12652.00000
+Memory 0.22359
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+171: 9
+VDC id:171, size 9
+yes
+0.82246
+0.82246
+25266.00000 12633.00000
+Memory 0.22498
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+172: 9
+VDC id:172, size 9
+yes
+0.82142
+0.82142
+25234.00000 12617.00000
+Memory 0.22632
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+173: 9
+VDC id:173, size 9
+yes
+0.81960
+0.81960
+25178.00000 12589.00000
+Memory 0.22794
+96
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+174: 9
+VDC id:174, size 9
+yes
+0.81849
+0.81849
+25144.00000 12572.00000
+Memory 0.22935
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+175: 9
+VDC id:175, size 9
+yes
+0.81758
+0.81758
+25116.00000 12558.00000
+Memory 0.23057
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+176: 9
+VDC id:176, size 9
+yes
+0.81641
+0.81641
+25080.00000 12540.00000
+Memory 0.23201
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+177: 9
+VDC id:177, size 9
+yes
+0.81543
+0.81543
+25050.00000 12525.00000
+Memory 0.23330
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+178: 9
+VDC id:178, size 9
+yes
+0.81445
+0.81445
+25020.00000 12510.00000
+Memory 0.23460
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+179: 9
+VDC id:179, size 9
+yes
+0.81348
+0.81348
+24990.00000 12495.00000
+Memory 0.23598
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+180: 9
+VDC id:180, size 9
+yes
+0.81289
+0.81289
+24972.00000 12486.00000
+Memory 0.23708
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+181: 9
+VDC id:181, size 9
+yes
+0.81146
+0.81146
+24928.00000 12464.00000
+Memory 0.23852
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+182: 9
+VDC id:182, size 9
+yes
+0.81061
+0.81061
+24902.00000 12451.00000
+Memory 0.23975
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+183: 9
+VDC id:183, size 9
+yes
+0.80951
+0.80951
+24868.00000 12434.00000
+Memory 0.24116
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+184: 9
+VDC id:184, size 9
+yes
+0.80820
+0.80820
+24828.00000 12414.00000
+Memory 0.24257
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+185: 9
+VDC id:185, size 9
+yes
+0.80742
+0.80742
+24804.00000 12402.00000
+Memory 0.24368
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+186: 9
+VDC id:186, size 9
+yes
+0.80599
+0.80599
+24760.00000 12380.00000
+Memory 0.24521
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+187: 9
+VDC id:187, size 9
+yes
+0.80495
+0.80495
+24728.00000 12364.00000
+Memory 0.24662
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+188: 9
+VDC id:188, size 9
+yes
+0.80397
+0.80397
+24698.00000 12349.00000
+Memory 0.24797
+85
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+189: 9
+VDC id:189, size 9
+yes
+0.80267
+0.80267
+24658.00000 12329.00000
+Memory 0.24944
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+190: 9
+VDC id:190, size 9
+yes
+0.80104
+0.80104
+24608.00000 12304.00000
+Memory 0.25098
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+191: 9
+VDC id:191, size 9
+yes
+0.79961
+0.79961
+24564.00000 12282.00000
+Memory 0.25245
+89
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+192: 9
+VDC id:192, size 9
+yes
+0.79837
+0.79837
+24526.00000 12263.00000
+Memory 0.25392
+84
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+193: 9
+VDC id:193, size 9
+yes
+0.79655
+0.79655
+24470.00000 12235.00000
+Memory 0.25558
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+194: 9
+VDC id:194, size 9
+yes
+0.79544
+0.79544
+24436.00000 12218.00000
+Memory 0.25699
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+195: 9
+VDC id:195, size 9
+yes
+0.79427
+0.79427
+24400.00000 12200.00000
+Memory 0.25832
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+196: 9
+VDC id:196, size 9
+yes
+0.79310
+0.79310
+24364.00000 12182.00000
+Memory 0.25977
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+197: 9
+VDC id:197, size 9
+yes
+0.79180
+0.79180
+24324.00000 12162.00000
+Memory 0.26124
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+198: 9
+VDC id:198, size 9
+yes
+0.79115
+0.79115
+24304.00000 12152.00000
+Memory 0.26241
+67
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+199: 9
+VDC id:199, size 9
+yes
+0.78991
+0.78991
+24266.00000 12133.00000
+Memory 0.26377
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+200: 9
+VDC id:200, size 9
+yes
+0.78867
+0.78867
+24228.00000 12114.00000
+Memory 0.26521
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+201: 9
+VDC id:201, size 9
+yes
+0.78783
+0.78783
+24202.00000 12101.00000
+Memory 0.26644
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+202: 9
+VDC id:202, size 9
+yes
+0.78678
+0.78678
+24170.00000 12085.00000
+Memory 0.26778
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+203: 9
+VDC id:203, size 9
+yes
+0.78483
+0.78483
+24110.00000 12055.00000
+Memory 0.26943
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+204: 9
+VDC id:204, size 9
+yes
+0.78301
+0.78301
+24054.00000 12027.00000
+Memory 0.27109
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+205: 9
+VDC id:205, size 9
+yes
+0.78132
+0.78132
+24002.00000 12001.00000
+Memory 0.27268
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+206: 9
+VDC id:206, size 9
+yes
+0.77988
+0.77988
+23958.00000 11979.00000
+Memory 0.27409
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+207: 9
+VDC id:207, size 9
+yes
+0.77884
+0.77884
+23926.00000 11963.00000
+Memory 0.27551
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+208: 9
+VDC id:208, size 9
+yes
+0.77780
+0.77780
+23894.00000 11947.00000
+Memory 0.27684
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+209: 9
+VDC id:209, size 9
+yes
+0.77669
+0.77669
+23860.00000 11930.00000
+Memory 0.27818
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+210: 9
+VDC id:210, size 9
+yes
+0.77546
+0.77546
+23822.00000 11911.00000
+Memory 0.27962
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+211: 9
+VDC id:211, size 9
+yes
+0.77435
+0.77435
+23788.00000 11894.00000
+Memory 0.28103
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+212: 9
+VDC id:212, size 9
+yes
+0.77350
+0.77350
+23762.00000 11881.00000
+Memory 0.28221
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+213: 9
+VDC id:213, size 9
+yes
+0.77253
+0.77253
+23732.00000 11866.00000
+Memory 0.28352
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+214: 9
+VDC id:214, size 9
+yes
+0.77129
+0.77129
+23694.00000 11847.00000
+Memory 0.28499
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+215: 9
+VDC id:215, size 9
+yes
+0.77012
+0.77012
+23658.00000 11829.00000
+Memory 0.28640
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+216: 9
+VDC id:216, size 9
+yes
+0.76849
+0.76849
+23608.00000 11804.00000
+Memory 0.28790
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+217: 9
+VDC id:217, size 9
+yes
+0.76745
+0.76745
+23576.00000 11788.00000
+Memory 0.28924
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+218: 9
+VDC id:218, size 9
+yes
+0.76615
+0.76615
+23536.00000 11768.00000
+Memory 0.29063
+86
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+219: 9
+VDC id:219, size 9
+yes
+0.76465
+0.76465
+23490.00000 11745.00000
+Memory 0.29208
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+220: 9
+VDC id:220, size 9
+yes
+0.76367
+0.76367
+23460.00000 11730.00000
+Memory 0.29338
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+221: 9
+VDC id:221, size 9
+yes
+0.76270
+0.76270
+23430.00000 11715.00000
+Memory 0.29467
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+222: 9
+VDC id:222, size 9
+yes
+0.76178
+0.76178
+23402.00000 11701.00000
+Memory 0.29593
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+223: 9
+VDC id:223, size 9
+yes
+0.76009
+0.76009
+23350.00000 11675.00000
+Memory 0.29752
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+224: 9
+VDC id:224, size 9
+yes
+0.75911
+0.75911
+23320.00000 11660.00000
+Memory 0.29881
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+225: 9
+VDC id:225, size 9
+yes
+0.75833
+0.75833
+23296.00000 11648.00000
+Memory 0.29992
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+226: 9
+VDC id:226, size 9
+yes
+0.75638
+0.75638
+23236.00000 11618.00000
+Memory 0.30161
+97
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+227: 9
+VDC id:227, size 9
+yes
+0.75488
+0.75488
+23190.00000 11595.00000
+Memory 0.30305
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+228: 9
+VDC id:228, size 9
+yes
+0.75378
+0.75378
+23156.00000 11578.00000
+Memory 0.30446
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+229: 9
+VDC id:229, size 9
+yes
+0.75293
+0.75293
+23130.00000 11565.00000
+Memory 0.30564
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+230: 9
+VDC id:230, size 9
+yes
+0.75111
+0.75111
+23074.00000 11537.00000
+Memory 0.30727
+120
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+231: 9
+VDC id:231, size 9
+yes
+0.75033
+0.75033
+23050.00000 11525.00000
+Memory 0.30846
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+232: 9
+VDC id:232, size 9
+yes
+0.74935
+0.74935
+23020.00000 11510.00000
+Memory 0.30974
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+233: 9
+VDC id:233, size 9
+yes
+0.74844
+0.74844
+22992.00000 11496.00000
+Memory 0.31100
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+234: 9
+VDC id:234, size 9
+yes
+0.74746
+0.74746
+22962.00000 11481.00000
+Memory 0.31233
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+235: 9
+VDC id:235, size 9
+yes
+0.74674
+0.74674
+22940.00000 11470.00000
+Memory 0.31341
+64
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+236: 9
+VDC id:236, size 9
+yes
+0.74551
+0.74551
+22902.00000 11451.00000
+Memory 0.31477
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+237: 9
+VDC id:237, size 9
+yes
+0.74473
+0.74473
+22878.00000 11439.00000
+Memory 0.31588
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+238: 9
+VDC id:238, size 9
+yes
+0.74349
+0.74349
+22840.00000 11420.00000
+Memory 0.31725
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+239: 9
+VDC id:239, size 9
+yes
+0.74264
+0.74264
+22814.00000 11407.00000
+Memory 0.31843
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+240: 9
+VDC id:240, size 9
+yes
+0.74102
+0.74102
+22764.00000 11382.00000
+Memory 0.31996
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+241: 9
+VDC id:241, size 9
+yes
+0.73906
+0.73906
+22704.00000 11352.00000
+Memory 0.32162
+94
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+242: 9
+VDC id:242, size 9
+yes
+0.73789
+0.73789
+22668.00000 11334.00000
+Memory 0.32306
+110
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+243: 9
+VDC id:243, size 9
+yes
+0.73704
+0.73704
+22642.00000 11321.00000
+Memory 0.32424
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+244: 9
+VDC id:244, size 9
+yes
+0.73587
+0.73587
+22606.00000 11303.00000
+Memory 0.32568
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+245: 9
+VDC id:245, size 9
+yes
+0.73509
+0.73509
+22582.00000 11291.00000
+Memory 0.32679
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+246: 9
+VDC id:246, size 9
+yes
+0.73418
+0.73418
+22554.00000 11277.00000
+Memory 0.32805
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+247: 9
+VDC id:247, size 9
+yes
+0.73229
+0.73229
+22496.00000 11248.00000
+Memory 0.32970
+86
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+248: 9
+VDC id:248, size 9
+yes
+0.73118
+0.73118
+22462.00000 11231.00000
+Memory 0.33107
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+249: 9
+VDC id:249, size 9
+yes
+0.72956
+0.72956
+22412.00000 11206.00000
+Memory 0.33257
+116
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+250: 9
+VDC id:250, size 9
+yes
+0.72858
+0.72858
+22382.00000 11191.00000
+Memory 0.33386
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+251: 9
+VDC id:251, size 9
+yes
+0.72734
+0.72734
+22344.00000 11172.00000
+Memory 0.33530
+128
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+252: 9
+VDC id:252, size 9
+yes
+0.72611
+0.72611
+22306.00000 11153.00000
+Memory 0.33675
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+253: 9
+VDC id:253, size 9
+yes
+0.72507
+0.72507
+22274.00000 11137.00000
+Memory 0.33808
+104
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+254: 9
+VDC id:254, size 9
+yes
+0.72363
+0.72363
+22230.00000 11115.00000
+Memory 0.33961
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+255: 9
+VDC id:255, size 9
+yes
+0.72207
+0.72207
+22182.00000 11091.00000
+Memory 0.34112
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+256: 9
+VDC id:256, size 9
+yes
+0.72135
+0.72135
+22160.00000 11080.00000
+Memory 0.34224
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+257: 9
+VDC id:257, size 9
+yes
+0.72012
+0.72012
+22122.00000 11061.00000
+Memory 0.34371
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+258: 9
+VDC id:258, size 9
+yes
+0.71882
+0.71882
+22082.00000 11041.00000
+Memory 0.34518
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+259: 9
+VDC id:259, size 9
+yes
+0.71758
+0.71758
+22044.00000 11022.00000
+Memory 0.34663
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+260: 9
+VDC id:260, size 9
+yes
+0.71595
+0.71595
+21994.00000 10997.00000
+Memory 0.34813
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+261: 9
+VDC id:261, size 9
+yes
+0.71510
+0.71510
+21968.00000 10984.00000
+Memory 0.34931
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+262: 9
+VDC id:262, size 9
+yes
+0.71380
+0.71380
+21928.00000 10964.00000
+Memory 0.35068
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+263: 9
+VDC id:263, size 9
+yes
+0.71276
+0.71276
+21896.00000 10948.00000
+Memory 0.35201
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+264: 9
+VDC id:264, size 9
+yes
+0.71178
+0.71178
+21866.00000 10933.00000
+Memory 0.35330
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+265: 9
+VDC id:265, size 9
+yes
+0.71055
+0.71055
+21828.00000 10914.00000
+Memory 0.35470
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+266: 9
+VDC id:266, size 9
+yes
+0.70931
+0.70931
+21790.00000 10895.00000
+Memory 0.35614
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+267: 9
+VDC id:267, size 9
+yes
+0.70840
+0.70840
+21762.00000 10881.00000
+Memory 0.35749
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+268: 9
+VDC id:268, size 9
+yes
+0.70703
+0.70703
+21720.00000 10860.00000
+Memory 0.35899
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+269: 9
+VDC id:269, size 9
+yes
+0.70573
+0.70573
+21680.00000 10840.00000
+Memory 0.36039
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+270: 9
+VDC id:270, size 9
+yes
+0.70469
+0.70469
+21648.00000 10824.00000
+Memory 0.36177
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+271: 9
+VDC id:271, size 9
+yes
+0.70345
+0.70345
+21610.00000 10805.00000
+Memory 0.36321
+90
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+272: 9
+VDC id:272, size 9
+yes
+0.70143
+0.70143
+21548.00000 10774.00000
+Memory 0.36490
+113
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+273: 9
+VDC id:273, size 9
+yes
+0.70052
+0.70052
+21520.00000 10760.00000
+Memory 0.36616
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+274: 9
+VDC id:274, size 9
+yes
+0.69928
+0.69928
+21482.00000 10741.00000
+Memory 0.36763
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+275: 9
+VDC id:275, size 9
+yes
+0.69714
+0.69714
+21416.00000 10708.00000
+Memory 0.36935
+87
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+276: 9
+VDC id:276, size 9
+yes
+0.69629
+0.69629
+21390.00000 10695.00000
+Memory 0.37057
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+277: 9
+VDC id:277, size 9
+yes
+0.69538
+0.69538
+21362.00000 10681.00000
+Memory 0.37183
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+278: 9
+VDC id:278, size 9
+yes
+0.69427
+0.69427
+21328.00000 10664.00000
+Memory 0.37325
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+279: 9
+VDC id:279, size 9
+yes
+0.69355
+0.69355
+21306.00000 10653.00000
+Memory 0.37432
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+280: 9
+VDC id:280, size 9
+yes
+0.69225
+0.69225
+21266.00000 10633.00000
+Memory 0.37579
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+281: 9
+VDC id:281, size 9
+yes
+0.69134
+0.69134
+21238.00000 10619.00000
+Memory 0.37705
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+282: 9
+VDC id:282, size 9
+yes
+0.69010
+0.69010
+21200.00000 10600.00000
+Memory 0.37852
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+283: 9
+VDC id:283, size 9
+yes
+0.68880
+0.68880
+21160.00000 10580.00000
+Memory 0.37994
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+284: 9
+VDC id:284, size 9
+yes
+0.68743
+0.68743
+21118.00000 10559.00000
+Memory 0.38144
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+285: 9
+VDC id:285, size 9
+yes
+0.68698
+0.68698
+21104.00000 10552.00000
+Memory 0.38242
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+286: 9
+VDC id:286, size 9
+yes
+0.68548
+0.68548
+21058.00000 10529.00000
+Memory 0.38390
+113
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+287: 9
+VDC id:287, size 9
+yes
+0.68431
+0.68431
+21022.00000 10511.00000
+Memory 0.38528
+108
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+288: 9
+VDC id:288, size 9
+yes
+0.68353
+0.68353
+20998.00000 10499.00000
+Memory 0.38647
+105
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+289: 9
+VDC id:289, size 9
+yes
+0.68197
+0.68197
+20950.00000 10475.00000
+Memory 0.38795
+137
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+290: 9
+VDC id:290, size 9
+yes
+0.68086
+0.68086
+20916.00000 10458.00000
+Memory 0.38931
+99
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+291: 9
+VDC id:291, size 9
+yes
+0.67988
+0.67988
+20886.00000 10443.00000
+Memory 0.39062
+99
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+292: 9
+VDC id:292, size 9
+yes
+0.67852
+0.67852
+20844.00000 10422.00000
+Memory 0.39212
+113
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+293: 9
+VDC id:293, size 9
+yes
+0.67754
+0.67754
+20814.00000 10407.00000
+Memory 0.39341
+105
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+294: 9
+VDC id:294, size 9
+yes
+0.67695
+0.67695
+20796.00000 10398.00000
+Memory 0.39442
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+295: 9
+VDC id:295, size 9
+yes
+0.67604
+0.67604
+20768.00000 10384.00000
+Memory 0.39574
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+296: 9
+VDC id:296, size 9
+yes
+0.67539
+0.67539
+20748.00000 10374.00000
+Memory 0.39687
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+297: 9
+VDC id:297, size 9
+yes
+0.67448
+0.67448
+20720.00000 10360.00000
+Memory 0.39808
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+298: 9
+VDC id:298, size 9
+yes
+0.67363
+0.67363
+20694.00000 10347.00000
+Memory 0.39931
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+299: 9
+VDC id:299, size 9
+yes
+0.67240
+0.67240
+20656.00000 10328.00000
+Memory 0.40070
+85
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+300: 9
+VDC id:300, size 9
+yes
+0.67148
+0.67148
+20628.00000 10314.00000
+Memory 0.40196
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+301: 9
+VDC id:301, size 9
+yes
+0.67064
+0.67064
+20602.00000 10301.00000
+Memory 0.40322
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+302: 9
+VDC id:302, size 9
+yes
+0.66966
+0.66966
+20572.00000 10286.00000
+Memory 0.40457
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+303: 9
+VDC id:303, size 9
+yes
+0.66908
+0.66908
+20554.00000 10277.00000
+Memory 0.40562
+66
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+304: 9
+VDC id:304, size 9
+yes
+0.66777
+0.66777
+20514.00000 10257.00000
+Memory 0.40709
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+305: 9
+VDC id:305, size 9
+yes
+0.66569
+0.66569
+20450.00000 10225.00000
+Memory 0.40881
+89
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+306: 9
+VDC id:306, size 9
+yes
+0.66452
+0.66452
+20414.00000 10207.00000
+Memory 0.41017
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+307: 9
+VDC id:307, size 9
+yes
+0.66328
+0.66328
+20376.00000 10188.00000
+Memory 0.41161
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+308: 9
+VDC id:308, size 9
+yes
+0.66211
+0.66211
+20340.00000 10170.00000
+Memory 0.41298
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+309: 9
+VDC id:309, size 9
+yes
+0.66113
+0.66113
+20310.00000 10155.00000
+Memory 0.41427
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+310: 9
+VDC id:310, size 9
+yes
+0.65983
+0.65983
+20270.00000 10135.00000
+Memory 0.41574
+135
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+311: 9
+VDC id:311, size 9
+yes
+0.65866
+0.65866
+20234.00000 10117.00000
+Memory 0.41715
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+312: 9
+VDC id:312, size 9
+yes
+0.65729
+0.65729
+20192.00000 10096.00000
+Memory 0.41859
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+313: 9
+VDC id:313, size 9
+yes
+0.65625
+0.65625
+20160.00000 10080.00000
+Memory 0.42001
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+314: 9
+VDC id:314, size 9
+yes
+0.65482
+0.65482
+20116.00000 10058.00000
+Memory 0.42143
+116
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+315: 9
+VDC id:315, size 9
+yes
+0.65365
+0.65365
+20080.00000 10040.00000
+Memory 0.42290
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+316: 9
+VDC id:316, size 9
+yes
+0.65247
+0.65247
+20044.00000 10022.00000
+Memory 0.42435
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+317: 9
+VDC id:317, size 9
+yes
+0.65137
+0.65137
+20010.00000 10005.00000
+Memory 0.42571
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+318: 9
+VDC id:318, size 9
+yes
+0.65013
+0.65013
+19972.00000 9986.00000
+Memory 0.42719
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+319: 9
+VDC id:319, size 9
+yes
+0.64909
+0.64909
+19940.00000 9970.00000
+Memory 0.42860
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+320: 9
+VDC id:320, size 9
+yes
+0.64805
+0.64805
+19908.00000 9954.00000
+Memory 0.42998
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+321: 9
+VDC id:321, size 9
+yes
+0.64694
+0.64694
+19874.00000 9937.00000
+Memory 0.43139
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+322: 9
+VDC id:322, size 9
+yes
+0.64583
+0.64583
+19840.00000 9920.00000
+Memory 0.43280
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+323: 9
+VDC id:323, size 9
+yes
+0.64492
+0.64492
+19812.00000 9906.00000
+Memory 0.43406
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+324: 9
+VDC id:324, size 9
+yes
+0.64336
+0.64336
+19764.00000 9882.00000
+Memory 0.43556
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+325: 9
+VDC id:325, size 9
+yes
+0.64206
+0.64206
+19724.00000 9862.00000
+Memory 0.43697
+74
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+326: 9
+VDC id:326, size 9
+yes
+0.64102
+0.64102
+19692.00000 9846.00000
+Memory 0.43829
+97
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+327: 9
+VDC id:327, size 9
+yes
+0.63971
+0.63971
+19652.00000 9826.00000
+Memory 0.43977
+126
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+328: 9
+VDC id:328, size 9
+yes
+0.63861
+0.63861
+19618.00000 9809.00000
+Memory 0.44113
+108
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+329: 9
+VDC id:329, size 9
+yes
+0.63750
+0.63750
+19584.00000 9792.00000
+Memory 0.44254
+99
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+330: 9
+VDC id:330, size 9
+yes
+0.63646
+0.63646
+19552.00000 9776.00000
+Memory 0.44395
+112
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+331: 9
+VDC id:331, size 9
+yes
+0.63581
+0.63581
+19532.00000 9766.00000
+Memory 0.44508
+93
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+332: 9
+VDC id:332, size 9
+yes
+0.63464
+0.63464
+19496.00000 9748.00000
+Memory 0.44652
+124
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+333: 9
+VDC id:333, size 9
+yes
+0.63359
+0.63359
+19464.00000 9732.00000
+Memory 0.44793
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+334: 9
+VDC id:334, size 9
+yes
+0.63249
+0.63249
+19430.00000 9715.00000
+Memory 0.44923
+85
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+335: 9
+VDC id:335, size 9
+yes
+0.63118
+0.63118
+19390.00000 9695.00000
+Memory 0.45065
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+336: 9
+VDC id:336, size 9
+yes
+0.62988
+0.62988
+19350.00000 9675.00000
+Memory 0.45212
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+337: 9
+VDC id:337, size 9
+yes
+0.62917
+0.62917
+19328.00000 9664.00000
+Memory 0.45319
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+338: 9
+VDC id:338, size 9
+yes
+0.62806
+0.62806
+19294.00000 9647.00000
+Memory 0.45456
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+339: 9
+VDC id:339, size 9
+yes
+0.62695
+0.62695
+19260.00000 9630.00000
+Memory 0.45597
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+340: 9
+VDC id:340, size 9
+yes
+0.62630
+0.62630
+19240.00000 9620.00000
+Memory 0.45702
+65
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+341: 9
+VDC id:341, size 9
+yes
+0.62513
+0.62513
+19204.00000 9602.00000
+Memory 0.45835
+163
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+342: 9
+VDC id:342, size 9
+yes
+0.62383
+0.62383
+19164.00000 9582.00000
+Memory 0.45976
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+343: 9
+VDC id:343, size 9
+yes
+0.62246
+0.62246
+19122.00000 9561.00000
+Memory 0.46127
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+344: 9
+VDC id:344, size 9
+yes
+0.62103
+0.62103
+19078.00000 9539.00000
+Memory 0.46274
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+345: 9
+VDC id:345, size 9
+yes
+0.61979
+0.61979
+19040.00000 9520.00000
+Memory 0.46410
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+346: 9
+VDC id:346, size 9
+yes
+0.61849
+0.61849
+19000.00000 9500.00000
+Memory 0.46558
+104
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+347: 9
+VDC id:347, size 9
+yes
+0.61725
+0.61725
+18962.00000 9481.00000
+Memory 0.46697
+76
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+348: 9
+VDC id:348, size 9
+yes
+0.61576
+0.61576
+18916.00000 9458.00000
+Memory 0.46844
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+349: 9
+VDC id:349, size 9
+yes
+0.61452
+0.61452
+18878.00000 9439.00000
+Memory 0.46992
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+350: 9
+VDC id:350, size 9
+yes
+0.61367
+0.61367
+18852.00000 9426.00000
+Memory 0.47118
+77
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+351: 9
+VDC id:351, size 9
+yes
+0.61217
+0.61217
+18806.00000 9403.00000
+Memory 0.47265
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+352: 9
+VDC id:352, size 9
+yes
+0.61016
+0.61016
+18744.00000 9372.00000
+Memory 0.47433
+117
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+353: 9
+VDC id:353, size 9
+yes
+0.60866
+0.60866
+18698.00000 9349.00000
+Memory 0.47581
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+354: 9
+VDC id:354, size 9
+yes
+0.60794
+0.60794
+18676.00000 9338.00000
+Memory 0.47693
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+355: 9
+VDC id:355, size 9
+yes
+0.60716
+0.60716
+18652.00000 9326.00000
+Memory 0.47803
+80
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+356: 9
+VDC id:356, size 9
+yes
+0.60534
+0.60534
+18596.00000 9298.00000
+Memory 0.47963
+84
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+357: 9
+VDC id:357, size 9
+yes
+0.60417
+0.60417
+18560.00000 9280.00000
+Memory 0.48100
+106
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+358: 9
+VDC id:358, size 9
+yes
+0.60326
+0.60326
+18532.00000 9266.00000
+Memory 0.48221
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+359: 9
+VDC id:359, size 9
+yes
+0.60176
+0.60176
+18486.00000 9243.00000
+Memory 0.48365
+79
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+360: 9
+VDC id:360, size 9
+yes
+0.60020
+0.60020
+18438.00000 9219.00000
+Memory 0.48515
+83
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+361: 9
+VDC id:361, size 9
+yes
+0.59954
+0.59954
+18418.00000 9209.00000
+Memory 0.48620
+64
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+362: 9
+VDC id:362, size 9
+yes
+0.59863
+0.59863
+18390.00000 9195.00000
+Memory 0.48749
+86
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+363: 9
+VDC id:363, size 9
+yes
+0.59668
+0.59668
+18330.00000 9165.00000
+Memory 0.48917
+135
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+364: 9
+VDC id:364, size 9
+yes
+0.59603
+0.59603
+18310.00000 9155.00000
+Memory 0.49022
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+365: 9
+VDC id:365, size 9
+yes
+0.59479
+0.59479
+18272.00000 9136.00000
+Memory 0.49162
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+366: 9
+VDC id:366, size 9
+yes
+0.59271
+0.59271
+18208.00000 9104.00000
+Memory 0.49330
+171
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+367: 9
+VDC id:367, size 9
+yes
+0.59147
+0.59147
+18170.00000 9085.00000
+Memory 0.49477
+141
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+368: 9
+VDC id:368, size 9
+yes
+0.59036
+0.59036
+18136.00000 9068.00000
+Memory 0.49619
+163
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+369: 9
+VDC id:369, size 9
+yes
+0.58893
+0.58893
+18092.00000 9046.00000
+Memory 0.49761
+172
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+370: 9
+VDC id:370, size 9
+yes
+0.58698
+0.58698
+18032.00000 9016.00000
+Memory 0.49930
+181
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+371: 9
+VDC id:371, size 9
+yes
+0.58542
+0.58542
+17984.00000 8992.00000
+Memory 0.50080
+130
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+372: 9
+VDC id:372, size 9
+yes
+0.58437
+0.58437
+17952.00000 8976.00000
+Memory 0.50218
+85
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+373: 9
+VDC id:373, size 9
+yes
+0.58307
+0.58307
+17912.00000 8956.00000
+Memory 0.50365
+82
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+374: 9
+VDC id:374, size 9
+yes
+0.58203
+0.58203
+17880.00000 8940.00000
+Memory 0.50496
+101
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+375: 9
+VDC id:375, size 9
+yes
+0.58112
+0.58112
+17852.00000 8926.00000
+Memory 0.50617
+68
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+376: 9
+VDC id:376, size 9
+yes
+0.58021
+0.58021
+17824.00000 8912.00000
+Memory 0.50743
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+377: 9
+VDC id:377, size 9
+yes
+0.57917
+0.57917
+17792.00000 8896.00000
+Memory 0.50884
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+378: 9
+VDC id:378, size 9
+yes
+0.57832
+0.57832
+17766.00000 8883.00000
+Memory 0.51007
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+379: 9
+VDC id:379, size 9
+yes
+0.57689
+0.57689
+17722.00000 8861.00000
+Memory 0.51160
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+380: 9
+VDC id:380, size 9
+yes
+0.57591
+0.57591
+17692.00000 8846.00000
+Memory 0.51291
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+381: 9
+VDC id:381, size 9
+yes
+0.57448
+0.57448
+17648.00000 8824.00000
+Memory 0.51435
+97
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+382: 9
+VDC id:382, size 9
+yes
+0.57344
+0.57344
+17616.00000 8808.00000
+Memory 0.51570
+73
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+383: 9
+VDC id:383, size 9
+yes
+0.57220
+0.57220
+17578.00000 8789.00000
+Memory 0.51714
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+384: 9
+VDC id:384, size 9
+yes
+0.57096
+0.57096
+17540.00000 8770.00000
+Memory 0.51851
+122
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+385: 9
+VDC id:385, size 9
+yes
+0.57005
+0.57005
+17512.00000 8756.00000
+Memory 0.51977
+133
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+386: 9
+VDC id:386, size 9
+yes
+0.56888
+0.56888
+17476.00000 8738.00000
+Memory 0.52121
+97
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+387: 9
+VDC id:387, size 9
+yes
+0.56758
+0.56758
+17436.00000 8718.00000
+Memory 0.52268
+229
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+388: 9
+VDC id:388, size 9
+yes
+0.56680
+0.56680
+17412.00000 8706.00000
+Memory 0.52383
+121
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+389: 9
+VDC id:389, size 9
+yes
+0.56563
+0.56563
+17376.00000 8688.00000
+Memory 0.52522
+71
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+390: 9
+VDC id:390, size 9
+yes
+0.56458
+0.56458
+17344.00000 8672.00000
+Memory 0.52660
+117
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+391: 9
+VDC id:391, size 9
+yes
+0.56276
+0.56276
+17288.00000 8644.00000
+Memory 0.52822
+185
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+392: 9
+VDC id:392, size 9
+yes
+0.56191
+0.56191
+17262.00000 8631.00000
+Memory 0.52940
+153
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+393: 9
+VDC id:393, size 9
+yes
+0.56100
+0.56100
+17234.00000 8617.00000
+Memory 0.53068
+173
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+394: 9
+VDC id:394, size 9
+yes
+0.55983
+0.55983
+17198.00000 8599.00000
+Memory 0.53209
+185
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+395: 9
+VDC id:395, size 9
+yes
+0.55918
+0.55918
+17178.00000 8589.00000
+Memory 0.53313
+62
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+396: 9
+VDC id:396, size 9
+yes
+0.55781
+0.55781
+17136.00000 8568.00000
+Memory 0.53464
+164
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+397: 9
+VDC id:397, size 9
+yes
+0.55645
+0.55645
+17094.00000 8547.00000
+Memory 0.53614
+125
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+398: 9
+VDC id:398, size 9
+yes
+0.55508
+0.55508
+17052.00000 8526.00000
+Memory 0.53764
+116
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+399: 9
+VDC id:399, size 9
+yes
+0.55417
+0.55417
+17024.00000 8512.00000
+Memory 0.53886
+101
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+400: 9
+VDC id:400, size 9
+yes
+0.55286
+0.55286
+16984.00000 8492.00000
+Memory 0.54033
+146
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+401: 9
+VDC id:401, size 9
+yes
+0.55208
+0.55208
+16960.00000 8480.00000
+Memory 0.54144
+70
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+402: 9
+VDC id:402, size 9
+yes
+0.55117
+0.55117
+16932.00000 8466.00000
+Memory 0.54265
+75
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+403: 9
+VDC id:403, size 9
+yes
+0.54954
+0.54954
+16882.00000 8441.00000
+Memory 0.54415
+81
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+404: 9
+VDC id:404, size 9
+yes
+0.54876
+0.54876
+16858.00000 8429.00000
+Memory 0.54538
+103
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+405: 9
+VDC id:405, size 9
+yes
+0.54688
+0.54688
+16800.00000 8400.00000
+Memory 0.54704
+126
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+406: 9
+VDC id:406, size 9
+yes
+0.54557
+0.54557
+16760.00000 8380.00000
+Memory 0.54845
+141
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+407: 9
+VDC id:407, size 9
+yes
+0.54414
+0.54414
+16716.00000 8358.00000
+Memory 0.54989
+142
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+408: 9
+VDC id:408, size 9
+yes
+0.54362
+0.54362
+16700.00000 8350.00000
+Memory 0.55090
+107
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+409: 9
+VDC id:409, size 9
+yes
+0.54225
+0.54225
+16658.00000 8329.00000
+Memory 0.55235
+231
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+410: 9
+VDC id:410, size 9
+yes
+0.54095
+0.54095
+16618.00000 8309.00000
+Memory 0.55382
+86
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+411: 9
+VDC id:411, size 9
+yes
+0.54017
+0.54017
+16594.00000 8297.00000
+Memory 0.55492
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+412: 9
+VDC id:412, size 9
+yes
+0.53867
+0.53867
+16548.00000 8274.00000
+Memory 0.55640
+307
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+413: 9
+VDC id:413, size 9
+yes
+0.53802
+0.53802
+16528.00000 8264.00000
+Memory 0.55744
+90
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+414: 9
+VDC id:414, size 9
+yes
+0.53639
+0.53639
+16478.00000 8239.00000
+Memory 0.55901
+99
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+415: 9
+VDC id:415, size 9
+yes
+0.53509
+0.53509
+16438.00000 8219.00000
+Memory 0.56048
+137
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+416: 9
+VDC id:416, size 9
+yes
+0.53372
+0.53372
+16396.00000 8198.00000
+Memory 0.56192
+131
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+417: 9
+VDC id:417, size 9
+yes
+0.53294
+0.53294
+16372.00000 8186.00000
+Memory 0.56310
+94
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+418: 9
+VDC id:418, size 9
+yes
+0.53118
+0.53118
+16318.00000 8159.00000
+Memory 0.56473
+104
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+419: 9
+VDC id:419, size 9
+yes
+0.53001
+0.53001
+16282.00000 8141.00000
+Memory 0.56614
+138
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+420: 9
+VDC id:420, size 9
+yes
+0.52936
+0.52936
+16262.00000 8131.00000
+Memory 0.56726
+88
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+421: 9
+VDC id:421, size 9
+yes
+0.52773
+0.52773
+16212.00000 8106.00000
+Memory 0.56886
+124
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+422: 9
+VDC id:422, size 9
+yes
+0.52663
+0.52663
+16178.00000 8089.00000
+Memory 0.57024
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+423: 9
+VDC id:423, size 9
+yes
+0.52546
+0.52546
+16142.00000 8071.00000
+Memory 0.57168
+120
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+424: 9
+VDC id:424, size 9
+yes
+0.52344
+0.52344
+16080.00000 8040.00000
+Memory 0.57336
+162
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+425: 9
+VDC id:425, size 9
+yes
+0.52201
+0.52201
+16036.00000 8018.00000
+Memory 0.57481
+174
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+426: 9
+VDC id:426, size 9
+yes
+0.52083
+0.52083
+16000.00000 8000.00000
+Memory 0.57617
+177
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+427: 9
+VDC id:427, size 9
+yes
+0.51934
+0.51934
+15954.00000 7977.00000
+Memory 0.57764
+171
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+428: 9
+VDC id:428, size 9
+yes
+0.51849
+0.51849
+15928.00000 7964.00000
+Memory 0.57887
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+429: 9
+VDC id:429, size 9
+yes
+0.51738
+0.51738
+15894.00000 7947.00000
+Memory 0.58028
+150
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+430: 9
+VDC id:430, size 9
+yes
+0.51628
+0.51628
+15860.00000 7930.00000
+Memory 0.58170
+139
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+431: 9
+VDC id:431, size 9
+yes
+0.51497
+0.51497
+15820.00000 7910.00000
+Memory 0.58320
+128
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+432: 9
+VDC id:432, size 9
+yes
+0.51380
+0.51380
+15784.00000 7892.00000
+Memory 0.58456
+286
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+433: 9
+VDC id:433, size 9
+yes
+0.51211
+0.51211
+15732.00000 7866.00000
+Memory 0.58619
+365
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+434: 9
+VDC id:434, size 9
+yes
+0.51126
+0.51126
+15706.00000 7853.00000
+Memory 0.58742
+107
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+435: 9
+VDC id:435, size 9
+yes
+0.51048
+0.51048
+15682.00000 7841.00000
+Memory 0.58857
+69
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+436: 9
+VDC id:436, size 9
+yes
+0.50853
+0.50853
+15622.00000 7811.00000
+Memory 0.59026
+193
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+437: 9
+VDC id:437, size 9
+yes
+0.50749
+0.50749
+15590.00000 7795.00000
+Memory 0.59162
+114
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+438: 9
+VDC id:438, size 9
+yes
+0.50658
+0.50658
+15562.00000 7781.00000
+Memory 0.59283
+106
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+439: 9
+VDC id:439, size 9
+yes
+0.50573
+0.50573
+15536.00000 7768.00000
+Memory 0.59402
+97
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+440: 9
+VDC id:440, size 9
+yes
+0.50462
+0.50462
+15502.00000 7751.00000
+Memory 0.59538
+110
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+441: 9
+VDC id:441, size 9
+yes
+0.50378
+0.50378
+15476.00000 7738.00000
+Memory 0.59657
+67
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+442: 9
+VDC id:442, size 9
+yes
+0.50273
+0.50273
+15444.00000 7722.00000
+Memory 0.59790
+140
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+443: 9
+VDC id:443, size 9
+yes
+0.50176
+0.50176
+15414.00000 7707.00000
+Memory 0.59928
+101
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+444: 9
+VDC id:444, size 9
+yes
+0.50065
+0.50065
+15380.00000 7690.00000
+Memory 0.60069
+162
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+445: 9
+VDC id:445, size 9
+yes
+0.49961
+0.49961
+15348.00000 7674.00000
+Memory 0.60203
+253
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+446: 9
+VDC id:446, size 9
+yes
+0.49857
+0.49857
+15316.00000 7658.00000
+Memory 0.60336
+278
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+447: 9
+VDC id:447, size 9
+yes
+0.49740
+0.49740
+15280.00000 7640.00000
+Memory 0.60480
+232
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+448: 9
+VDC id:448, size 9
+yes
+0.49525
+0.49525
+15214.00000 7607.00000
+Memory 0.60652
+152
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+449: 9
+VDC id:449, size 9
+yes
+0.49382
+0.49382
+15170.00000 7585.00000
+Memory 0.60796
+205
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+450: 9
+VDC id:450, size 9
+yes
+0.49258
+0.49258
+15132.00000 7566.00000
+Memory 0.60941
+143
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+451: 9
+VDC id:451, size 9
+yes
+0.49115
+0.49115
+15088.00000 7544.00000
+Memory 0.61094
+155
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+452: 9
+VDC id:452, size 9
+yes
+0.48932
+0.48932
+15032.00000 7516.00000
+Memory 0.61256
+181
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+453: 9
+VDC id:453, size 9
+yes
+0.48809
+0.48809
+14994.00000 7497.00000
+Memory 0.61404
+246
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+454: 9
+VDC id:454, size 9
+yes
+0.48691
+0.48691
+14958.00000 7479.00000
+Memory 0.61548
+124
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+455: 9
+VDC id:455, size 9
+yes
+0.48594
+0.48594
+14928.00000 7464.00000
+Memory 0.61677
+122
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+456: 9
+VDC id:456, size 9
+yes
+0.48464
+0.48464
+14888.00000 7444.00000
+Memory 0.61824
+193
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+457: 9
+VDC id:457, size 9
+yes
+0.48327
+0.48327
+14846.00000 7423.00000
+Memory 0.61964
+148
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+458: 9
+VDC id:458, size 9
+yes
+0.48190
+0.48190
+14804.00000 7402.00000
+Memory 0.62114
+224
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+459: 9
+VDC id:459, size 9
+yes
+0.48118
+0.48118
+14782.00000 7391.00000
+Memory 0.62222
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+460: 9
+VDC id:460, size 9
+yes
+0.48047
+0.48047
+14760.00000 7380.00000
+Memory 0.62329
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+461: 9
+VDC id:461, size 9
+yes
+0.47923
+0.47923
+14722.00000 7361.00000
+Memory 0.62476
+208
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+462: 9
+VDC id:462, size 9
+yes
+0.47793
+0.47793
+14682.00000 7341.00000
+Memory 0.62624
+168
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+463: 9
+VDC id:463, size 9
+yes
+0.47663
+0.47663
+14642.00000 7321.00000
+Memory 0.62774
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+464: 9
+VDC id:464, size 9
+yes
+0.47578
+0.47578
+14616.00000 7308.00000
+Memory 0.62897
+110
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+465: 9
+VDC id:465, size 9
+yes
+0.47487
+0.47487
+14588.00000 7294.00000
+Memory 0.63018
+100
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+466: 9
+VDC id:466, size 9
+yes
+0.47409
+0.47409
+14564.00000 7282.00000
+Memory 0.63136
+112
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+467: 9
+VDC id:467, size 9
+yes
+0.47331
+0.47331
+14540.00000 7270.00000
+Memory 0.63255
+117
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+468: 9
+VDC id:468, size 9
+yes
+0.47174
+0.47174
+14492.00000 7246.00000
+Memory 0.63405
+111
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+469: 9
+VDC id:469, size 9
+yes
+0.47051
+0.47051
+14454.00000 7227.00000
+Memory 0.63541
+301
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+470: 9
+VDC id:470, size 9
+yes
+0.46927
+0.46927
+14416.00000 7208.00000
+Memory 0.63689
+213
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+471: 9
+VDC id:471, size 9
+yes
+0.46797
+0.46797
+14376.00000 7188.00000
+Memory 0.63836
+131
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+472: 9
+VDC id:472, size 9
+yes
+0.46738
+0.46738
+14358.00000 7179.00000
+Memory 0.63937
+126
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+473: 9
+VDC id:473, size 9
+yes
+0.46647
+0.46647
+14330.00000 7165.00000
+Memory 0.64059
+204
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+474: 9
+VDC id:474, size 9
+yes
+0.46478
+0.46478
+14278.00000 7139.00000
+Memory 0.64218
+389
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+475: 9
+VDC id:475, size 9
+yes
+0.46354
+0.46354
+14240.00000 7120.00000
+Memory 0.64362
+89
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+476: 9
+VDC id:476, size 9
+yes
+0.46276
+0.46276
+14216.00000 7108.00000
+Memory 0.64485
+206
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+477: 9
+VDC id:477, size 9
+yes
+0.46178
+0.46178
+14186.00000 7093.00000
+Memory 0.64616
+316
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+478: 9
+VDC id:478, size 9
+yes
+0.46035
+0.46035
+14142.00000 7071.00000
+Memory 0.64769
+249
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+479: 9
+VDC id:479, size 9
+yes
+0.45898
+0.45898
+14100.00000 7050.00000
+Memory 0.64919
+240
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+480: 9
+VDC id:480, size 9
+yes
+0.45762
+0.45762
+14058.00000 7029.00000
+Memory 0.65070
+137
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+481: 9
+VDC id:481, size 9
+yes
+0.45671
+0.45671
+14030.00000 7015.00000
+Memory 0.65195
+102
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+482: 9
+VDC id:482, size 9
+yes
+0.45592
+0.45592
+14006.00000 7003.00000
+Memory 0.65306
+96
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+483: 9
+VDC id:483, size 9
+yes
+0.45508
+0.45508
+13980.00000 6990.00000
+Memory 0.65429
+148
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+484: 9
+VDC id:484, size 9
+yes
+0.45423
+0.45423
+13954.00000 6977.00000
+Memory 0.65555
+209
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+485: 9
+VDC id:485, size 9
+yes
+0.45319
+0.45319
+13922.00000 6961.00000
+Memory 0.65696
+251
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+486: 9
+VDC id:486, size 9
+yes
+0.45221
+0.45221
+13892.00000 6946.00000
+Memory 0.65823
+191
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+487: 9
+VDC id:487, size 9
+yes
+0.45104
+0.45104
+13856.00000 6928.00000
+Memory 0.65960
+238
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+488: 9
+VDC id:488, size 9
+yes
+0.44915
+0.44915
+13798.00000 6899.00000
+Memory 0.66125
+308
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+489: 9
+VDC id:489, size 9
+yes
+0.44811
+0.44811
+13766.00000 6883.00000
+Memory 0.66257
+320
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+490: 9
+VDC id:490, size 9
+yes
+0.44688
+0.44688
+13728.00000 6864.00000
+Memory 0.66394
+172
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+491: 9
+VDC id:491, size 9
+yes
+0.44609
+0.44609
+13704.00000 6852.00000
+Memory 0.66505
+118
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+492: 9
+VDC id:492, size 9
+yes
+0.44479
+0.44479
+13664.00000 6832.00000
+Memory 0.66652
+263
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+493: 9
+VDC id:493, size 9
+yes
+0.44388
+0.44388
+13636.00000 6818.00000
+Memory 0.66773
+95
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+494: 9
+VDC id:494, size 9
+yes
+0.44264
+0.44264
+13598.00000 6799.00000
+Memory 0.66920
+282
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+495: 9
+VDC id:495, size 9
+yes
+0.44141
+0.44141
+13560.00000 6780.00000
+Memory 0.67060
+320
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+496: 9
+VDC id:496, size 9
+yes
+0.44043
+0.44043
+13530.00000 6765.00000
+Memory 0.67191
+350
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+497: 9
+VDC id:497, size 9
+yes
+0.43952
+0.43952
+13502.00000 6751.00000
+Memory 0.67316
+177
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+498: 9
+VDC id:498, size 9
+yes
+0.43861
+0.43861
+13474.00000 6737.00000
+Memory 0.67438
+94
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+499: 9
+VDC id:499, size 9
+yes
+0.43743
+0.43743
+13438.00000 6719.00000
+Memory 0.67582
+391
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+500: 9
+VDC id:500, size 9
+yes
+0.43665
+0.43665
+13414.00000 6707.00000
+Memory 0.67693
+78
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+501: 9
+VDC id:501, size 9
+yes
+0.43522
+0.43522
+13370.00000 6685.00000
+Memory 0.67837
+159
+Allocating ../../../instances/fattree-bcube/vn2_3.5.vn
+3
+4, 3
+502: 9
+VDC id:502, size 9
+yes
+0.43327
+0.43327
+13310.00000 6655.00000
+Memory 0.68005
+179
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+503: 9
+VDC id:503, size 9
+yes
+0.43210
+0.43210
+13274.00000 6637.00000
+Memory 0.68150
+208
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+504: 9
+VDC id:504, size 9
+yes
+0.43125
+0.43125
+13248.00000 6624.00000
+Memory 0.68272
+167
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+505: 9
+VDC id:505, size 9
+yes
+0.43027
+0.43027
+13218.00000 6609.00000
+Memory 0.68401
+155
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+506: 9
+VDC id:506, size 9
+yes
+0.42936
+0.42936
+13190.00000 6595.00000
+Memory 0.68523
+169
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+507: 9
+VDC id:507, size 9
+yes
+0.42852
+0.42852
+13164.00000 6582.00000
+Memory 0.68650
+122
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+508: 9
+VDC id:508, size 9
+yes
+0.42780
+0.42780
+13142.00000 6571.00000
+Memory 0.68758
+171
+Allocating ../../../instances/fattree-bcube/vn2_3.1.vn
+3
+4, 3
+509: 9
+VDC id:509, size 9
+yes
+0.42708
+0.42708
+13120.00000 6560.00000
+Memory 0.68865
+227
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+510: 9
+VDC id:510, size 9
+yes
+0.42585
+0.42585
+13082.00000 6541.00000
+Memory 0.69012
+309
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+511: 9
+VDC id:511, size 9
+yes
+0.42467
+0.42467
+13046.00000 6523.00000
+Memory 0.69154
+233
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+512: 9
+VDC id:512, size 9
+yes
+0.42337
+0.42337
+13006.00000 6503.00000
+Memory 0.69301
+195
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+513: 9
+VDC id:513, size 9
+yes
+0.42207
+0.42207
+12966.00000 6483.00000
+Memory 0.69448
+282
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+514: 9
+VDC id:514, size 9
+yes
+0.42096
+0.42096
+12932.00000 6466.00000
+Memory 0.69592
+171
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+515: 9
+VDC id:515, size 9
+yes
+0.42005
+0.42005
+12904.00000 6452.00000
+Memory 0.69718
+257
+Allocating ../../../instances/fattree-bcube/vn2_3.2.vn
+3
+4, 3
+516: 9
+VDC id:516, size 9
+yes
+0.41888
+0.41888
+12868.00000 6434.00000
+Memory 0.69862
+212
+Allocating ../../../instances/fattree-bcube/vn2_3.8.vn
+3
+4, 3
+517: 9
+VDC id:517, size 9
+yes
+0.41816
+0.41816
+12846.00000 6423.00000
+Memory 0.69978
+72
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+518: 9
+VDC id:518, size 9
+yes
+0.41732
+0.41732
+12820.00000 6410.00000
+Memory 0.70105
+173
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+519: 9
+VDC id:519, size 9
+yes
+0.41641
+0.41641
+12792.00000 6396.00000
+Memory 0.70231
+219
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+520: 9
+VDC id:520, size 9
+yes
+0.41510
+0.41510
+12752.00000 6376.00000
+Memory 0.70378
+200
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+521: 9
+VDC id:521, size 9
+yes
+0.41406
+0.41406
+12720.00000 6360.00000
+Memory 0.70516
+649
+Allocating ../../../instances/fattree-bcube/vn2_3.10.vn
+3
+4, 3
+522: 9
+VDC id:522, size 9
+yes
+0.41289
+0.41289
+12684.00000 6342.00000
+Memory 0.70657
+598
+Allocating ../../../instances/fattree-bcube/vn2_3.6.vn
+3
+4, 3
+523: 9
+VDC id:523, size 9
+yes
+0.41165
+0.41165
+12646.00000 6323.00000
+Memory 0.70794
+633
+Allocating ../../../instances/fattree-bcube/vn2_3.7.vn
+3
+4, 3
+524: 9
+VDC id:524, size 9
+yes
+0.41074
+0.41074
+12618.00000 6309.00000
+Memory 0.70924
+274
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+525: 9
+VDC id:525, size 9
+yes
+0.40990
+0.40990
+12592.00000 6296.00000
+Memory 0.71047
+166
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+526: 9
+VDC id:526, size 9
+yes
+0.40872
+0.40872
+12556.00000 6278.00000
+Memory 0.71191
+670
+Allocating ../../../instances/fattree-bcube/vn2_3.4.vn
+3
+4, 3
+527: 9
+VDC id:527, size 9
+yes
+0.40781
+0.40781
+12528.00000 6264.00000
+Memory 0.71317
+457
+Allocating ../../../instances/fattree-bcube/vn2_3.9.vn
+3
+4, 3
+528: 9
+VDC id:528, size 9
+yes
+0.40677
+0.40677
+12496.00000 6248.00000
+Memory 0.71458
+713
+Allocating ../../../instances/fattree-bcube/vn2_3.3.vn
+3
+4, 3
+529: 9
+VDC id:529, size 9
+no
+0.40677
+0.40677
+12496.00000 6248.00000
+Memory 0.71486
+781
+Allocated 528 VDCs
+[runlim] end:			Mon Sep 30 00:51:31 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.33 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0

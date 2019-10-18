@@ -1,0 +1,44 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-incremental.py
+[runlim] argv[2]:		../../../instances/fmcad/in_json/tree16_400.20.pn
+[runlim] argv[3]:		../../../instances/fmcad/in_json/instance_list_vn2_3.3
+[runlim] argv[4]:		True
+[runlim] argv[5]:		9
+[runlim] argv[6]:		False
+[runlim] argv[7]:		results.tree16_400.20.vn3.3
+[runlim] start:			Tue Sep 17 13:27:47 2019
+[runlim] main pid:		30455
+Academic license - for non-commercial use only
+[runlim] sample:		10.4 seconds, 72.2 MB
+[runlim] sample:		20.5 seconds, 72.4 MB
+[runlim] sample:		30.5 seconds, 72.3 MB
+[runlim] sample:		40.5 seconds, 72.3 MB
+[runlim] sample:		50.5 seconds, 72.3 MB
+[runlim] sample:		60.5 seconds, 72.3 MB
+[runlim] sample:		70.5 seconds, 72.3 MB
+[runlim] sample:		80.5 seconds, 72.3 MB
+[runlim] sample:		90.5 seconds, 72.3 MB
+[runlim] sample:		100.5 seconds, 72.3 MB
+[runlim] sample:		110.5 seconds, 72.0 MB
+[runlim] sample:		120.5 seconds, 71.8 MB
+[runlim] sample:		130.4 seconds, 72.2 MB
+[runlim] sample:		140.4 seconds, 72.1 MB
+[runlim] sample:		150.4 seconds, 72.0 MB
+[runlim] sample:		160.4 seconds, 71.8 MB
+[runlim] sample:		170.4 seconds, 71.8 MB
+[runlim] sample:		180.4 seconds, 71.7 MB
+183.638729
+711
+Median time: 0.253295 s
+[runlim] end:			Tue Sep 17 13:30:51 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			184.68 seconds
+[runlim] time:			184.35 seconds
+[runlim] space:			72.4 MB
+[runlim] samples:		1839

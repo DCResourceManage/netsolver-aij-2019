@@ -1,0 +1,34 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-hadoop-mod.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extra/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/instance_list_hadoop_6vm_rnd.txt
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.us-mid1.pn.instance_list_hadoop_6vm_rnd.txt.log
+[runlim] start:			Tue Sep 24 01:47:01 2019
+[runlim] main pid:		27502
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 44.7 MB
+[runlim] sample:		20.0 seconds, 44.7 MB
+[runlim] sample:		30.0 seconds, 44.7 MB
+[runlim] sample:		40.0 seconds, 44.9 MB
+[runlim] sample:		50.0 seconds, 44.9 MB
+[runlim] sample:		60.0 seconds, 44.9 MB
+[runlim] sample:		70.0 seconds, 44.9 MB
+[runlim] sample:		80.0 seconds, 44.9 MB
+[runlim] sample:		90.0 seconds, 44.9 MB
+91.300765
+137
+Median time: 0.667929 s
+[runlim] end:			Tue Sep 24 01:48:33 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			92.24 seconds
+[runlim] time:			91.39 seconds
+[runlim] space:			44.9 MB
+[runlim] samples:		914

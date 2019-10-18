@@ -1,0 +1,10 @@
+# instance ../secondnet/final_pns_json/final.BCube_n12_k2_bw10_cpu16.pn.instance_list_6vm_rnd.txt.pn.json
+# Settings: PN=../secondnet/final_pns_json/final.BCube_n12_k2_bw10_cpu16.pn.instance_list_6vm_rnd.txt.pn.json, VN=../../../instances/fattree-bcube/instance_list_6vm_rnd.txt, multi-thread=False
+init 0.082716 0.082716
+1 5.885385 5.968101
+2 5.491277 11.459512
+3 7.28372 18.743362
+4 7.325226 26.068713
+5 3.739098 29.807948
+6 8.681232 38.489308
+7 8.05145 46.540895

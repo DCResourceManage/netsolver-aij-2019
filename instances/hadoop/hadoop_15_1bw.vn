@@ -1,0 +1,4 @@
+{
+"VN" : [["master", "slave1", 1000], ["master", "slave2", 1000], ["master", "slave3", 1000], ["master", "slave4", 1000], ["master", "slave5", 1000], ["master", "slave6", 1000], ["master", "slave7", 1000], ["master", "slave8", 1000], ["master", "slave9", 1000], ["master", "slave10", 1000], ["master", "slave11", 1000], ["master", "slave12", 1000], ["master", "slave13", 1000], ["master", "slave14", 1000]],
+"VMs" : {"master": [4, 8, 200], "slave1": [4, 8, 200], "slave2": [4, 8, 200], "slave3": [4, 8, 200], "slave4": [4, 8, 200], "slave5": [4, 8, 200], "slave6": [4, 8, 200], "slave7": [4, 8, 200], "slave8": [4, 8, 200], "slave9": [4, 8, 200], "slave10": [4, 8, 200], "slave11": [4, 8, 200], "slave12": [4, 8, 200], "slave13": [4, 8, 200], "slave14": [4, 8, 200]}
+}

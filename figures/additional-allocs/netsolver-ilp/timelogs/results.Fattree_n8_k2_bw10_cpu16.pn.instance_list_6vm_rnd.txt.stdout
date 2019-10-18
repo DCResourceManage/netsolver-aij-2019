@@ -1,0 +1,30 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-mod.py
+[runlim] argv[2]:		../secondnet/final_pns_json/final.Fattree_n8_k2_bw10_cpu16.pn.instance_list_6vm_rnd.txt.pn.json
+[runlim] argv[3]:		../../../instances/fattree-bcube/instance_list_6vm_rnd.txt
+[runlim] argv[4]:		False
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.Fattree_n8_k2_bw10_cpu16.pn.instance_list_6vm_rnd.txt.log
+[runlim] start:			Mon Sep 30 12:11:15 2019
+[runlim] main pid:		17488
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 35.2 MB
+[runlim] sample:		20.0 seconds, 37.1 MB
+[runlim] sample:		30.0 seconds, 37.1 MB
+[runlim] sample:		40.0 seconds, 37.1 MB
+done 107 0.375111 40.607173
+40.607173
+107
+Median time: 0.37282 s
+[runlim] end:			Mon Sep 30 12:11:55 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			40.75 seconds
+[runlim] time:			40.70 seconds
+[runlim] space:			37.4 MB
+[runlim] samples:		407

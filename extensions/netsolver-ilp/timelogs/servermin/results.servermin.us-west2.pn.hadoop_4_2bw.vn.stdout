@@ -1,0 +1,26 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-servermin.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extensions/us-west2.pn
+[runlim] argv[3]:		../../../instances/hadoop/hadoop_extensions/hadoop_4_2bw.vn
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/servermin/results.servermin.us-west2.pn.hadoop_4_2bw.vn.log
+[runlim] start:			Sun Sep 22 11:29:20 2019
+[runlim] main pid:		35743
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 35.0 MB
+17.292433
+560
+Median time: 0.0316925 s
+[runlim] end:			Sun Sep 22 11:29:37 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			17.72 seconds
+[runlim] time:			17.29 seconds
+[runlim] space:			35.0 MB
+[runlim] samples:		173

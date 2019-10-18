@@ -1,0 +1,66 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-mod.py
+[runlim] argv[2]:		../secondnet/final_pns_json/final.Fattree_n12_k2_bw10_cpu16.pn.instance_list_6vm_rnd.txt.pn.json
+[runlim] argv[3]:		../../../instances/fattree-bcube/instance_list_6vm_rnd.txt
+[runlim] argv[4]:		False
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.Fattree_n12_k2_bw10_cpu16.pn.instance_list_6vm_rnd.txt.log
+[runlim] start:			Mon Sep 30 12:14:41 2019
+[runlim] main pid:		17500
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 57.4 MB
+[runlim] sample:		20.0 seconds, 66.0 MB
+[runlim] sample:		30.0 seconds, 69.8 MB
+[runlim] sample:		40.0 seconds, 66.2 MB
+[runlim] sample:		50.0 seconds, 66.6 MB
+[runlim] sample:		60.0 seconds, 68.5 MB
+[runlim] sample:		70.0 seconds, 69.3 MB
+[runlim] sample:		80.0 seconds, 69.3 MB
+[runlim] sample:		90.0 seconds, 75.7 MB
+[runlim] sample:		100.0 seconds, 74.0 MB
+[runlim] sample:		110.0 seconds, 74.7 MB
+[runlim] sample:		120.0 seconds, 79.0 MB
+[runlim] sample:		130.0 seconds, 78.3 MB
+[runlim] sample:		140.0 seconds, 78.3 MB
+[runlim] sample:		150.0 seconds, 78.3 MB
+[runlim] sample:		160.0 seconds, 80.4 MB
+[runlim] sample:		170.0 seconds, 79.9 MB
+[runlim] sample:		180.0 seconds, 79.2 MB
+[runlim] sample:		190.0 seconds, 79.9 MB
+[runlim] sample:		200.0 seconds, 81.4 MB
+[runlim] sample:		210.0 seconds, 80.4 MB
+[runlim] sample:		220.0 seconds, 80.4 MB
+[runlim] sample:		230.0 seconds, 74.1 MB
+[runlim] sample:		240.0 seconds, 73.9 MB
+[runlim] sample:		250.0 seconds, 74.4 MB
+[runlim] sample:		260.0 seconds, 74.5 MB
+[runlim] sample:		270.0 seconds, 76.5 MB
+[runlim] sample:		280.0 seconds, 76.2 MB
+[runlim] sample:		290.0 seconds, 75.7 MB
+[runlim] sample:		300.0 seconds, 75.2 MB
+[runlim] sample:		310.0 seconds, 75.2 MB
+[runlim] sample:		320.0 seconds, 75.5 MB
+[runlim] sample:		330.0 seconds, 76.2 MB
+[runlim] sample:		340.0 seconds, 75.5 MB
+[runlim] sample:		350.0 seconds, 75.5 MB
+[runlim] sample:		360.0 seconds, 75.7 MB
+[runlim] sample:		370.0 seconds, 75.7 MB
+[runlim] sample:		380.0 seconds, 75.5 MB
+[runlim] sample:		390.0 seconds, 75.2 MB
+[runlim] sample:		400.0 seconds, 76.2 MB
+done 326 1.287405 403.437533
+403.437533
+326
+Median time: 1.24621 s
+[runlim] end:			Mon Sep 30 12:21:24 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			403.96 seconds
+[runlim] time:			403.49 seconds
+[runlim] space:			81.8 MB
+[runlim] samples:		4035

@@ -1,0 +1,5 @@
+# instance ../../../instances/hadoop/hadoop_extra/us-mid1.pn
+# Settings: PN=../../../instances/hadoop/hadoop_extra/us-mid1.pn, VN=../../../instances/hadoop/instance_list_hadoop_14vm_rnd.txt, multi-thread=False
+init 0.007058 0.007058
+1 1.517986 1.525044
+done 1 1.606893 3.132064

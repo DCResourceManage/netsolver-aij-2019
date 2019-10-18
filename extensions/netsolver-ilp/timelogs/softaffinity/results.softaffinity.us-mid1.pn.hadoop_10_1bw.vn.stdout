@@ -1,0 +1,57 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-softaffinity.py
+[runlim] argv[2]:		../../../instances/hadoop/hadoop_extensions/us-mid1.pn
+[runlim] argv[3]:		../../../instances/hadoop/hadoop_extensions/hadoop_10_1bw.vn
+[runlim] argv[4]:		True
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/softaffinity/results.softaffinity.us-mid1.pn.hadoop_10_1bw.vn.log
+[runlim] start:			Sun Sep 22 14:47:34 2019
+[runlim] main pid:		36004
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 76.2 MB
+[runlim] sample:		20.0 seconds, 76.5 MB
+[runlim] sample:		30.0 seconds, 77.1 MB
+[runlim] sample:		40.0 seconds, 62.8 MB
+[runlim] sample:		50.0 seconds, 67.4 MB
+[runlim] sample:		60.0 seconds, 75.8 MB
+[runlim] sample:		70.0 seconds, 75.0 MB
+[runlim] sample:		80.0 seconds, 74.1 MB
+[runlim] sample:		90.0 seconds, 73.4 MB
+[runlim] sample:		100.0 seconds, 78.3 MB
+[runlim] sample:		110.0 seconds, 77.7 MB
+[runlim] sample:		120.0 seconds, 71.8 MB
+[runlim] sample:		130.0 seconds, 72.0 MB
+[runlim] sample:		140.0 seconds, 72.1 MB
+[runlim] sample:		150.0 seconds, 71.5 MB
+[runlim] sample:		160.0 seconds, 76.1 MB
+[runlim] sample:		170.0 seconds, 64.7 MB
+[runlim] sample:		180.0 seconds, 73.8 MB
+[runlim] sample:		190.0 seconds, 71.2 MB
+[runlim] sample:		200.0 seconds, 70.5 MB
+[runlim] sample:		210.0 seconds, 68.0 MB
+[runlim] sample:		220.0 seconds, 62.7 MB
+[runlim] sample:		230.0 seconds, 59.8 MB
+[runlim] sample:		240.0 seconds, 70.4 MB
+[runlim] sample:		250.0 seconds, 69.2 MB
+[runlim] sample:		260.0 seconds, 68.7 MB
+[runlim] sample:		270.0 seconds, 68.1 MB
+[runlim] sample:		280.0 seconds, 55.5 MB
+[runlim] sample:		290.0 seconds, 64.5 MB
+[runlim] sample:		300.0 seconds, 62.4 MB
+[runlim] sample:		310.0 seconds, 62.7 MB
+[runlim] sample:		320.0 seconds, 56.6 MB
+327.132834
+307
+Median time: 0.927817 s
+[runlim] end:			Sun Sep 22 14:53:02 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			328.14 seconds
+[runlim] time:			327.19 seconds
+[runlim] space:			91.5 MB
+[runlim] samples:		3272

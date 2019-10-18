@@ -1,0 +1,92 @@
+[runlim] version:		1.7
+[runlim] time limit:		3600 seconds
+[runlim] real time limit:	311040000 seconds
+[runlim] space limit:		80000 MB
+[runlim] argv[0]:		python3.6
+[runlim] argv[1]:		./netsolver-gurobi-mod.py
+[runlim] argv[2]:		../secondnet/final_pns_json/final.BCube_n10_k2_bw10_cpu16.pn.instance_list_9vm_rnd.txt.pn.json
+[runlim] argv[3]:		../../../instances/fattree-bcube/instance_list_9vm_rnd.txt
+[runlim] argv[4]:		False
+[runlim] argv[5]:		False
+[runlim] argv[6]:		timelogs/results.BCube_n10_k2_bw10_cpu16.pn.instance_list_9vm_rnd.txt.log
+[runlim] start:			Mon Sep 30 03:27:37 2019
+[runlim] main pid:		12828
+Academic license - for non-commercial use only
+[runlim] sample:		10.0 seconds, 212.4 MB
+[runlim] sample:		20.0 seconds, 158.0 MB
+[runlim] sample:		30.0 seconds, 182.8 MB
+[runlim] sample:		40.0 seconds, 172.9 MB
+[runlim] sample:		50.0 seconds, 222.0 MB
+[runlim] sample:		60.0 seconds, 203.6 MB
+[runlim] sample:		70.0 seconds, 201.4 MB
+[runlim] sample:		80.0 seconds, 180.8 MB
+[runlim] sample:		90.0 seconds, 203.2 MB
+[runlim] sample:		100.0 seconds, 186.7 MB
+[runlim] sample:		110.0 seconds, 208.9 MB
+[runlim] sample:		120.0 seconds, 172.8 MB
+[runlim] sample:		130.0 seconds, 206.0 MB
+[runlim] sample:		140.0 seconds, 190.9 MB
+[runlim] sample:		150.0 seconds, 213.8 MB
+[runlim] sample:		160.0 seconds, 222.7 MB
+[runlim] sample:		170.0 seconds, 174.2 MB
+[runlim] sample:		180.0 seconds, 192.4 MB
+[runlim] sample:		190.0 seconds, 206.9 MB
+[runlim] sample:		200.0 seconds, 202.2 MB
+[runlim] sample:		210.0 seconds, 209.2 MB
+[runlim] sample:		220.0 seconds, 206.0 MB
+[runlim] sample:		230.0 seconds, 208.3 MB
+[runlim] sample:		240.0 seconds, 195.4 MB
+[runlim] sample:		250.0 seconds, 209.5 MB
+[runlim] sample:		260.0 seconds, 197.3 MB
+[runlim] sample:		270.0 seconds, 154.7 MB
+[runlim] sample:		280.0 seconds, 159.8 MB
+[runlim] sample:		290.0 seconds, 166.0 MB
+[runlim] sample:		300.0 seconds, 196.1 MB
+[runlim] sample:		310.0 seconds, 183.1 MB
+[runlim] sample:		320.0 seconds, 172.5 MB
+[runlim] sample:		330.0 seconds, 183.3 MB
+[runlim] sample:		340.0 seconds, 179.0 MB
+[runlim] sample:		350.0 seconds, 182.9 MB
+[runlim] sample:		360.0 seconds, 172.4 MB
+[runlim] sample:		370.0 seconds, 204.3 MB
+[runlim] sample:		380.0 seconds, 170.6 MB
+[runlim] sample:		390.0 seconds, 176.5 MB
+[runlim] sample:		400.0 seconds, 174.0 MB
+[runlim] sample:		410.0 seconds, 175.9 MB
+[runlim] sample:		420.0 seconds, 158.9 MB
+[runlim] sample:		430.0 seconds, 183.6 MB
+[runlim] sample:		440.0 seconds, 166.4 MB
+[runlim] sample:		450.0 seconds, 185.0 MB
+[runlim] sample:		460.0 seconds, 179.2 MB
+[runlim] sample:		470.0 seconds, 174.7 MB
+[runlim] sample:		480.0 seconds, 179.5 MB
+[runlim] sample:		490.0 seconds, 183.2 MB
+[runlim] sample:		500.0 seconds, 182.7 MB
+[runlim] sample:		510.0 seconds, 182.7 MB
+[runlim] sample:		520.0 seconds, 175.1 MB
+[runlim] sample:		530.0 seconds, 180.0 MB
+[runlim] sample:		540.0 seconds, 180.4 MB
+[runlim] sample:		550.0 seconds, 184.0 MB
+[runlim] sample:		560.0 seconds, 165.9 MB
+[runlim] sample:		570.0 seconds, 203.7 MB
+[runlim] sample:		580.0 seconds, 195.3 MB
+[runlim] sample:		590.0 seconds, 179.3 MB
+[runlim] sample:		600.0 seconds, 189.2 MB
+[runlim] sample:		610.0 seconds, 187.8 MB
+[runlim] sample:		620.0 seconds, 187.8 MB
+[runlim] sample:		630.0 seconds, 173.6 MB
+[runlim] sample:		640.0 seconds, 173.1 MB
+[runlim] sample:		650.0 seconds, 156.7 MB
+[runlim] sample:		660.0 seconds, 178.7 MB
+done 105 4.536835 664.486411
+664.486411
+105
+Median time: 5.55225 s
+[runlim] end:			Mon Sep 30 03:38:42 2019
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			665.55 seconds
+[runlim] time:			664.68 seconds
+[runlim] space:			250.5 MB
+[runlim] samples:		6647
